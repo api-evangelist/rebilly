@@ -1,0 +1,78 @@
+{
+    "name": "Rebilly",
+    "description": "",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/rebilly.png",
+    "tags": [
+        "billing",
+        "have api",
+        "relative data",
+        "service api"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/rebilly\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Rebilly",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/rebilly.png",
+            "humanURL": "https:\/\/www.rebilly.com",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/openapis\/rebilly.json"
+                },
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/rebilly-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Website",
+            "url": "https:\/\/www.rebilly.com"
+        },
+        {
+            "type": "Documentation",
+            "url": "https:\/\/rebilly.github.io\/RebillyAPI\/#"
+        },
+        {
+            "type": "Github",
+            "url": "https:\/\/github.com\/Rebilly"
+        },
+        {
+            "type": "License Agreement",
+            "url": "https:\/\/www.rebilly.com\/api-license\/"
+        },
+        {
+            "type": "Pricing",
+            "url": "https:\/\/www.rebilly.com\/pricing\/"
+        },
+        {
+            "type": "Privacy Policy",
+            "url": "https:\/\/www.rebilly.com\/privacy-policy\/"
+        },
+        {
+            "type": "Support",
+            "url": "https:\/\/help.rebilly.com\/"
+        },
+        {
+            "type": "Terms of Service",
+            "url": "https:\/\/www.rebilly.com\/terms-of-use\/"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/RebillyInc"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/rebilly.com"
+        }
+    ]
+}
