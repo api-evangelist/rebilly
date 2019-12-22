@@ -1,5 +1,5 @@
 {
-    "id": "dfc7d5abf5b75934748bf300f7f6afa7",
+    "id": "e017b875e2ead222124aa49b0bd1922e",
     "name": "Rebilly",
     "description": null,
     "auth": null,
@@ -10,7 +10,7 @@
     "folders": [],
     "requests": [
         {
-            "id": "4752fcbad03b4437acc8c9fb0ae73641",
+            "id": "2c825361c0aa3e01cff6f71194b99a9f",
             "name": "Retrieve a list of ThreeDSecure entries",
             "url": "httpsapi.rebilly.com\/v2.1\/3dsecure",
             "description": "Retrieve a list of ThreeDSecure entries",
@@ -29,11 +29,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "dfc7d5abf5b75934748bf300f7f6afa7",
+            "collectionId": "e017b875e2ead222124aa49b0bd1922e",
             "rawModeData": ""
         },
         {
-            "id": "9754c984f05f5a556ccf2a46a651f9a7",
+            "id": "40e11e1d9f52b055d25d2733c37d710a",
             "name": "Create a ThreeDSecure entry",
             "url": "httpsapi.rebilly.com\/v2.1\/3dsecure",
             "description": "Create a ThreeDSecure entry\n",
@@ -60,11 +60,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "dfc7d5abf5b75934748bf300f7f6afa7",
+            "collectionId": "e017b875e2ead222124aa49b0bd1922e",
             "rawModeData": ""
         },
         {
-            "id": "df59894ccaa5b081c772de5acb1f5499",
+            "id": "0718aa02502ecd7b16c37a8c99efcaac",
             "name": "Retrieve a ThreeDSecure entry",
             "url": "httpsapi.rebilly.com\/v2.1\/3dsecure\/{id}",
             "description": "Retrieve a ThreeDSecure entry with specified identifier string\n",
@@ -83,11 +83,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "dfc7d5abf5b75934748bf300f7f6afa7",
+            "collectionId": "e017b875e2ead222124aa49b0bd1922e",
             "rawModeData": ""
         },
         {
-            "id": "77b2f2cc3395fdf2067c9ddc9142fbe2",
+            "id": "bf29fd94121884fc9971f7e1961e42c9",
             "name": "Retrieve a list of Attachments",
             "url": "httpsapi.rebilly.com\/v2.1\/attachments",
             "description": "Retrieve a list of Attachments\n",
@@ -114,11 +114,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "dfc7d5abf5b75934748bf300f7f6afa7",
+            "collectionId": "e017b875e2ead222124aa49b0bd1922e",
             "rawModeData": ""
         },
         {
-            "id": "f6ab2db33fa362a4ae447cc570f17a42",
+            "id": "78f7b56e5b77442db0cbcbdcb882c580",
             "name": "Create an Attachment",
             "url": "httpsapi.rebilly.com\/v2.1\/attachments",
             "description": "Create an Attachment\n",
@@ -145,11 +145,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "dfc7d5abf5b75934748bf300f7f6afa7",
+            "collectionId": "e017b875e2ead222124aa49b0bd1922e",
             "rawModeData": ""
         },
         {
-            "id": "b823d8d53c81c8da0890535b1e66ed9b",
+            "id": "6216c336d5861e58ae2ed19604b48fe8",
             "name": "Delete an Attachment",
             "url": "httpsapi.rebilly.com\/v2.1\/attachments\/{id}",
             "description": "Delete the Attachment with predefined identifier string\n",
@@ -168,11 +168,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "dfc7d5abf5b75934748bf300f7f6afa7",
+            "collectionId": "e017b875e2ead222124aa49b0bd1922e",
             "rawModeData": ""
         },
         {
-            "id": "b48c316164c6f60563ba07dabb5329e6",
+            "id": "3200780b339972b819781008edccefd9",
             "name": "Retrieve an Attachment",
             "url": "httpsapi.rebilly.com\/v2.1\/attachments\/{id}",
             "description": "Retrieve a Attachment with specified identifier string\n",
@@ -191,11 +191,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "dfc7d5abf5b75934748bf300f7f6afa7",
+            "collectionId": "e017b875e2ead222124aa49b0bd1922e",
             "rawModeData": ""
         },
         {
-            "id": "de1f346bf74ba5834ebfdaec95925904",
+            "id": "b16ad6e63efed8d293ccb336dd7cede1",
             "name": "Update the Attachment with predefined ID",
             "url": "httpsapi.rebilly.com\/v2.1\/attachments\/{id}",
             "description": "Update the Attachment with predefined ID\n",
@@ -222,11 +222,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "dfc7d5abf5b75934748bf300f7f6afa7",
+            "collectionId": "e017b875e2ead222124aa49b0bd1922e",
             "rawModeData": ""
         },
         {
-            "id": "0397fd7196ac3c4b7927e9a816c24697",
+            "id": "6d87f4dfdd64f3ef1bf5119850d4339f",
             "name": "Read current authentication options",
             "url": "httpsapi.rebilly.com\/v2.1\/authentication-options",
             "description": "Read current authentication options\n",
@@ -245,11 +245,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "dfc7d5abf5b75934748bf300f7f6afa7",
+            "collectionId": "e017b875e2ead222124aa49b0bd1922e",
             "rawModeData": ""
         },
         {
-            "id": "68b8f37204ba63160a153419cb098f7a",
+            "id": "cc8bb47da1e9cfccee41413063ceabff",
             "name": "Change authentication options",
             "url": "httpsapi.rebilly.com\/v2.1\/authentication-options",
             "description": "Change options\n",
@@ -276,11 +276,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "dfc7d5abf5b75934748bf300f7f6afa7",
+            "collectionId": "e017b875e2ead222124aa49b0bd1922e",
             "rawModeData": ""
         },
         {
-            "id": "4f814a51180a7486269aebc4d7d733ba",
+            "id": "b4b312aa4e5ac9206aef5e0d9ac16578",
             "name": "Retrieve a list of auth tokens",
             "url": "httpsapi.rebilly.com\/v2.1\/authentication-tokens",
             "description": "Retrieve a list of auth tokens\n",
@@ -299,11 +299,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "dfc7d5abf5b75934748bf300f7f6afa7",
+            "collectionId": "e017b875e2ead222124aa49b0bd1922e",
             "rawModeData": ""
         },
         {
-            "id": "d9ad51eb2b4766f81831ff9818ceff9d",
+            "id": "3a46b4d46ca821d65857a180e9267144",
             "name": "Login",
             "url": "httpsapi.rebilly.com\/v2.1\/authentication-tokens",
             "description": "Login a user (customer)\n",
@@ -330,11 +330,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "dfc7d5abf5b75934748bf300f7f6afa7",
+            "collectionId": "e017b875e2ead222124aa49b0bd1922e",
             "rawModeData": ""
         },
         {
-            "id": "eb0c21706882e4a7248177163b4c8379",
+            "id": "4209e32a54bdbb176d80b510116dc2df",
             "name": "Logout a user",
             "url": "httpsapi.rebilly.com\/v2.1\/authentication-tokens\/{token}",
             "description": "Logout a user\n",
@@ -353,11 +353,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "dfc7d5abf5b75934748bf300f7f6afa7",
+            "collectionId": "e017b875e2ead222124aa49b0bd1922e",
             "rawModeData": ""
         },
         {
-            "id": "17f4b396a031417419dbe441673853ab",
+            "id": "6942046dbd265c326e299607592ca38b",
             "name": "Verify",
             "url": "httpsapi.rebilly.com\/v2.1\/authentication-tokens\/{token}",
             "description": "Verify an authentication token\n",
@@ -376,11 +376,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "dfc7d5abf5b75934748bf300f7f6afa7",
+            "collectionId": "e017b875e2ead222124aa49b0bd1922e",
             "rawModeData": ""
         },
         {
-            "id": "4caa107aa66d8c485d7ab7406c3d8cfd",
+            "id": "cf77f5989460a567a43fa61a9fbbfbfe",
             "name": "Retrieve a list of bank accounts",
             "url": "httpsapi.rebilly.com\/v2.1\/bank-accounts",
             "description": "Retrieve a list of Bank Accounts\n",
@@ -399,11 +399,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "dfc7d5abf5b75934748bf300f7f6afa7",
+            "collectionId": "e017b875e2ead222124aa49b0bd1922e",
             "rawModeData": ""
         },
         {
-            "id": "2f5e53444902c94998ba2575cab6d259",
+            "id": "111a146f9b82a2fe280436e74224c02e",
             "name": "Create a Bank Account",
             "url": "httpsapi.rebilly.com\/v2.1\/bank-accounts",
             "description": "Create a Bank Account\n",
@@ -430,11 +430,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "dfc7d5abf5b75934748bf300f7f6afa7",
+            "collectionId": "e017b875e2ead222124aa49b0bd1922e",
             "rawModeData": ""
         },
         {
-            "id": "8091b28fbd4ac35ad75b24e7d5fa9f21",
+            "id": "2462c1de51430680b3f6d9640e5191e1",
             "name": "Retrieve a Bank Account",
             "url": "httpsapi.rebilly.com\/v2.1\/bank-accounts\/{id}",
             "description": "Retrieve a Bank Account with specified identifier string\n",
@@ -453,11 +453,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "dfc7d5abf5b75934748bf300f7f6afa7",
+            "collectionId": "e017b875e2ead222124aa49b0bd1922e",
             "rawModeData": ""
         },
         {
-            "id": "d78c910b4e997b0ac4a5531ae5f83905",
+            "id": "87a1ffce1d20dccd8e036e1d094e3ff4",
             "name": "Create a BankAccount with predefined ID",
             "url": "httpsapi.rebilly.com\/v2.1\/bank-accounts\/{id}",
             "description": "Create or update a BankAccount with predefined identifier string\n",
@@ -484,11 +484,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "dfc7d5abf5b75934748bf300f7f6afa7",
+            "collectionId": "e017b875e2ead222124aa49b0bd1922e",
             "rawModeData": ""
         },
         {
-            "id": "6b57597dfad82a7a1e8eb5a02e7b1752",
+            "id": "d5172a2caa048ba736409aac39800b68",
             "name": "Deactivate a Bank Account",
             "url": "httpsapi.rebilly.com\/v2.1\/bank-accounts\/{id}\/deactivation",
             "description": "Deactivate a Bank Account\n",
@@ -507,11 +507,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "dfc7d5abf5b75934748bf300f7f6afa7",
+            "collectionId": "e017b875e2ead222124aa49b0bd1922e",
             "rawModeData": ""
         },
         {
-            "id": "ce9229fd92fcbefaab13b172197590cf",
+            "id": "21b7035c75936e9c758ccadc7dacec1d",
             "name": "Retrieve a list of blacklists",
             "url": "httpsapi.rebilly.com\/v2.1\/blacklists",
             "description": "Retrieve a list of blacklists\n",
@@ -530,11 +530,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "dfc7d5abf5b75934748bf300f7f6afa7",
+            "collectionId": "e017b875e2ead222124aa49b0bd1922e",
             "rawModeData": ""
         },
         {
-            "id": "6fdca311f1a0ca72d47d8a0e8aef0a84",
+            "id": "afa7d4033bc97097f5093e1f53993631",
             "name": "Create a blacklist",
             "url": "httpsapi.rebilly.com\/v2.1\/blacklists",
             "description": "Create a blacklist\n",
@@ -561,11 +561,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "dfc7d5abf5b75934748bf300f7f6afa7",
+            "collectionId": "e017b875e2ead222124aa49b0bd1922e",
             "rawModeData": ""
         },
         {
-            "id": "f67acb07cc6eee246b78c4984c33ec29",
+            "id": "623fc0552268bf1926fd514ea89bdb48",
             "name": "Delete a blacklist",
             "url": "httpsapi.rebilly.com\/v2.1\/blacklists\/{id}",
             "description": "Delete a blacklist with predefined identifier string\n",
@@ -584,11 +584,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "dfc7d5abf5b75934748bf300f7f6afa7",
+            "collectionId": "e017b875e2ead222124aa49b0bd1922e",
             "rawModeData": ""
         },
         {
-            "id": "32d5f05849d543af236488fd8714fd4c",
+            "id": "eefb22c4b8f50e1d528b7e6f510c967f",
             "name": "Retrieve a blacklist",
             "url": "httpsapi.rebilly.com\/v2.1\/blacklists\/{id}",
             "description": "Retrieve a blacklist with specified identifier string\n",
@@ -607,11 +607,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "dfc7d5abf5b75934748bf300f7f6afa7",
+            "collectionId": "e017b875e2ead222124aa49b0bd1922e",
             "rawModeData": ""
         },
         {
-            "id": "2f1e2ed6300a26a20ae525e0e1825058",
+            "id": "90f7e034e88d4c6cf106bbcbddb1ca5d",
             "name": "Create a blacklist with predefined ID",
             "url": "httpsapi.rebilly.com\/v2.1\/blacklists\/{id}",
             "description": "Create a blacklist with predefined identifier string\n",
@@ -638,11 +638,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "dfc7d5abf5b75934748bf300f7f6afa7",
+            "collectionId": "e017b875e2ead222124aa49b0bd1922e",
             "rawModeData": ""
         },
         {
-            "id": "8305490398c3bd3f1a0bc0f594ca2ffa",
+            "id": "cce832657322333e8ca4db0a417b23cd",
             "name": "Retrieve a list of contacts",
             "url": "httpsapi.rebilly.com\/v2.1\/contacts",
             "description": "Retrieve a list of contacts\n",
@@ -661,11 +661,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "dfc7d5abf5b75934748bf300f7f6afa7",
+            "collectionId": "e017b875e2ead222124aa49b0bd1922e",
             "rawModeData": ""
         },
         {
-            "id": "a0b88714d428fecdf4571781a90976b6",
+            "id": "12b624fb7dd4e68b2cc0bf7bbee499f0",
             "name": "Create a contact",
             "url": "httpsapi.rebilly.com\/v2.1\/contacts",
             "description": "Create a contact\n",
@@ -692,11 +692,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "dfc7d5abf5b75934748bf300f7f6afa7",
+            "collectionId": "e017b875e2ead222124aa49b0bd1922e",
             "rawModeData": ""
         },
         {
-            "id": "8f35148e9e5ddd0db90a345cf48c44cc",
+            "id": "4a2a83d7f44a42101401946ae20c6c81",
             "name": "Delete a contact",
             "url": "httpsapi.rebilly.com\/v2.1\/contacts\/{id}",
             "description": "Delete a contact with predefined identifier string\n",
@@ -715,11 +715,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "dfc7d5abf5b75934748bf300f7f6afa7",
+            "collectionId": "e017b875e2ead222124aa49b0bd1922e",
             "rawModeData": ""
         },
         {
-            "id": "e2bb187fa9d19ad7cac54fa351300708",
+            "id": "7db838b3462e7ac84548f9182d2ad1bf",
             "name": "Retrieve a contact",
             "url": "httpsapi.rebilly.com\/v2.1\/contacts\/{id}",
             "description": "Retrieve a contact with specified identifier string\n",
@@ -738,11 +738,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "dfc7d5abf5b75934748bf300f7f6afa7",
+            "collectionId": "e017b875e2ead222124aa49b0bd1922e",
             "rawModeData": ""
         },
         {
-            "id": "899e9f8f94446f1dce7bb54797b08e69",
+            "id": "d2a8814e01e361d00d1855a36490604c",
             "name": "Create or update a contact with predefined ID",
             "url": "httpsapi.rebilly.com\/v2.1\/contacts\/{id}",
             "description": "Create or update a contact with predefined identifier string\n",
@@ -769,11 +769,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "dfc7d5abf5b75934748bf300f7f6afa7",
+            "collectionId": "e017b875e2ead222124aa49b0bd1922e",
             "rawModeData": ""
         },
         {
-            "id": "35da41f1348b04ed1e2e56a8b88ff0d6",
+            "id": "137306bbd290528d111cdab81d561be2",
             "name": "Retrieve a list of coupons",
             "url": "httpsapi.rebilly.com\/v2.1\/coupons",
             "description": "Retrieve a list of coupons\n",
@@ -792,11 +792,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "dfc7d5abf5b75934748bf300f7f6afa7",
+            "collectionId": "e017b875e2ead222124aa49b0bd1922e",
             "rawModeData": ""
         },
         {
-            "id": "d205e9e6ebe855366f7ca5c23151005c",
+            "id": "8e4c71966f14e8197358a69e9e39666b",
             "name": "Create a coupon",
             "url": "httpsapi.rebilly.com\/v2.1\/coupons",
             "description": "Create a coupon\n",
@@ -823,11 +823,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "dfc7d5abf5b75934748bf300f7f6afa7",
+            "collectionId": "e017b875e2ead222124aa49b0bd1922e",
             "rawModeData": ""
         },
         {
-            "id": "6faeeb11e2277d656e4941743bca3409",
+            "id": "2be8ad6ece957a7d7fc52f0d01508046",
             "name": "Retrieve a list of coupon redemptions",
             "url": "httpsapi.rebilly.com\/v2.1\/coupons-redemptions",
             "description": "",
@@ -846,11 +846,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "dfc7d5abf5b75934748bf300f7f6afa7",
+            "collectionId": "e017b875e2ead222124aa49b0bd1922e",
             "rawModeData": ""
         },
         {
-            "id": "159e5636133bb457af12c2d7307b9174",
+            "id": "a2029df41553a8f15c75dc6c036390a4",
             "name": "Redeem a coupon",
             "url": "httpsapi.rebilly.com\/v2.1\/coupons-redemptions",
             "description": "Redeem a coupon\n",
@@ -877,11 +877,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "dfc7d5abf5b75934748bf300f7f6afa7",
+            "collectionId": "e017b875e2ead222124aa49b0bd1922e",
             "rawModeData": ""
         },
         {
-            "id": "9475506024e0b2aa92da74ac3c2d86b0",
+            "id": "406f7fd2fbf9331f91895619741d1d60",
             "name": "Retrieve a coupon redemption with specified identifier string",
             "url": "httpsapi.rebilly.com\/v2.1\/coupons-redemptions\/{id}",
             "description": "",
@@ -900,11 +900,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "dfc7d5abf5b75934748bf300f7f6afa7",
+            "collectionId": "e017b875e2ead222124aa49b0bd1922e",
             "rawModeData": ""
         },
         {
-            "id": "00e565a1bcdc5a55b3549470d7686c89",
+            "id": "c2b7933265f2ca4c70c70c83623e1023",
             "name": "Cancel a coupon redemption",
             "url": "httpsapi.rebilly.com\/v2.1\/coupons-redemptions\/{id}\/cancel",
             "description": "",
@@ -923,11 +923,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "dfc7d5abf5b75934748bf300f7f6afa7",
+            "collectionId": "e017b875e2ead222124aa49b0bd1922e",
             "rawModeData": ""
         },
         {
-            "id": "1064e435f6ed3ca257e4e8c5a729eb81",
+            "id": "aba5aa5378806c3b0f9a656a4a879e44",
             "name": "Retrieve a coupon",
             "url": "httpsapi.rebilly.com\/v2.1\/coupons\/{redemptionCode}",
             "description": "Retrieve a coupon with specified redemption code string\n",
@@ -946,11 +946,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "dfc7d5abf5b75934748bf300f7f6afa7",
+            "collectionId": "e017b875e2ead222124aa49b0bd1922e",
             "rawModeData": ""
         },
         {
-            "id": "fd5281bf03b2c61f4eee0e0cabb0c6da",
+            "id": "1bc3961bebd7d9e64d1177ceb4660122",
             "name": "Create or update a coupon with predefined redemption code",
             "url": "httpsapi.rebilly.com\/v2.1\/coupons\/{redemptionCode}",
             "description": "Create or update a coupon with predefined redemption code\n",
@@ -977,11 +977,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "dfc7d5abf5b75934748bf300f7f6afa7",
+            "collectionId": "e017b875e2ead222124aa49b0bd1922e",
             "rawModeData": ""
         },
         {
-            "id": "f1cf134ac996994e32f14b104aef5718",
+            "id": "6e05352286525dc1b8530a2ce4e696d8",
             "name": "Set a coupon's expiration time.",
             "url": "httpsapi.rebilly.com\/v2.1\/coupons\/{redemptionCode}\/expiration",
             "description": "Set a coupon's expiry time with the specified redemption code.\nThe expiredTime of a coupon must be greater than its issuedTime.\nThis cannot be performed on expired coupons.\n",
@@ -1008,11 +1008,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "dfc7d5abf5b75934748bf300f7f6afa7",
+            "collectionId": "e017b875e2ead222124aa49b0bd1922e",
             "rawModeData": ""
         },
         {
-            "id": "8108db13af1ed67fe6d3a8871745a67b",
+            "id": "31b74315ae7067f2e6161386b6a362c4",
             "name": "Retrieve a list of credentials",
             "url": "httpsapi.rebilly.com\/v2.1\/credentials",
             "description": "Retrieve a list of credentials\n",
@@ -1031,11 +1031,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "dfc7d5abf5b75934748bf300f7f6afa7",
+            "collectionId": "e017b875e2ead222124aa49b0bd1922e",
             "rawModeData": ""
         },
         {
-            "id": "c4341fbc7145b32248aefc26e1f5361a",
+            "id": "b25362a1401e89d6d2b8edc2f3ced486",
             "name": "Create a credential",
             "url": "httpsapi.rebilly.com\/v2.1\/credentials",
             "description": "Create a credential\n",
@@ -1062,11 +1062,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "dfc7d5abf5b75934748bf300f7f6afa7",
+            "collectionId": "e017b875e2ead222124aa49b0bd1922e",
             "rawModeData": ""
         },
         {
-            "id": "f84cc2e5c15e30ae0615cb67ccd19f36",
+            "id": "d7cb44d2a0cf1f3e18a19c228dd63505",
             "name": "Delete a credential",
             "url": "httpsapi.rebilly.com\/v2.1\/credentials\/{id}",
             "description": "Delete a credential with predefined identifier string\n",
@@ -1085,11 +1085,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "dfc7d5abf5b75934748bf300f7f6afa7",
+            "collectionId": "e017b875e2ead222124aa49b0bd1922e",
             "rawModeData": ""
         },
         {
-            "id": "8213ecf2f00e2aaec83ea3c98c3c9d16",
+            "id": "adb801acd941e3c8a2e18dce16b15aed",
             "name": "Retrieve a credential",
             "url": "httpsapi.rebilly.com\/v2.1\/credentials\/{id}",
             "description": "Retrieve a credential with specified identifier string\n",
@@ -1108,11 +1108,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "dfc7d5abf5b75934748bf300f7f6afa7",
+            "collectionId": "e017b875e2ead222124aa49b0bd1922e",
             "rawModeData": ""
         },
         {
-            "id": "2843de34eed61c304ad82c7083e96279",
+            "id": "62261d6ceb5191d2db9eb24f6d743363",
             "name": "Create or update a credential with predefined ID",
             "url": "httpsapi.rebilly.com\/v2.1\/credentials\/{id}",
             "description": "Create or update a credential with predefined identifier string\n",
@@ -1139,11 +1139,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "dfc7d5abf5b75934748bf300f7f6afa7",
+            "collectionId": "e017b875e2ead222124aa49b0bd1922e",
             "rawModeData": ""
         },
         {
-            "id": "87284f490d74865d446d44924adbff7c",
+            "id": "bd78e53b78448405223dcd31f276afe7",
             "name": "Retrieve Custom Fields",
             "url": "httpsapi.rebilly.com\/v2.1\/custom-fields\/{resource}",
             "description": "Retrieve a schema of Custom Fields for the given resource type\n",
@@ -1162,11 +1162,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "dfc7d5abf5b75934748bf300f7f6afa7",
+            "collectionId": "e017b875e2ead222124aa49b0bd1922e",
             "rawModeData": ""
         },
         {
-            "id": "7ef8de0d657ca3bfa9f1ccf46a4a2a2f",
+            "id": "8bf7bb08bfb3df8ea6f5c2de67bf8238",
             "name": "Delete a custom field",
             "url": "httpsapi.rebilly.com\/v2.1\/custom-fields\/{resource}\/{name}",
             "description": "Delete a custom field by its name\n",
@@ -1185,11 +1185,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "dfc7d5abf5b75934748bf300f7f6afa7",
+            "collectionId": "e017b875e2ead222124aa49b0bd1922e",
             "rawModeData": ""
         },
         {
-            "id": "b4da8b23685c335926ac7bc24c40c037",
+            "id": "1f664b1c73f77e0ab98b3f763b7fea56",
             "name": "Retrieve a Custom Field",
             "url": "httpsapi.rebilly.com\/v2.1\/custom-fields\/{resource}\/{name}",
             "description": "Retrieve a schema of the given Custom Field for the given resource type\n",
@@ -1208,11 +1208,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "dfc7d5abf5b75934748bf300f7f6afa7",
+            "collectionId": "e017b875e2ead222124aa49b0bd1922e",
             "rawModeData": ""
         },
         {
-            "id": "c9e9ffe2e953c329f77f7f9a6e864a33",
+            "id": "79206ccb664d0e2d8f72bdbe0886d3f8",
             "name": "Create or alter a Custom Field",
             "url": "httpsapi.rebilly.com\/v2.1\/custom-fields\/{resource}\/{name}",
             "description": "Create or alter a schema of the given Custom Field for the given resource type.\n",
@@ -1239,11 +1239,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "dfc7d5abf5b75934748bf300f7f6afa7",
+            "collectionId": "e017b875e2ead222124aa49b0bd1922e",
             "rawModeData": ""
         },
         {
-            "id": "bfaf05ed324231cee7137b54e50b58ee",
+            "id": "8c6417a7f9cc05d788fa4ebdff956d21",
             "name": "Retrieve a list of customers",
             "url": "httpsapi.rebilly.com\/v2.1\/customers",
             "description": "Retrieve a list of customers\n",
@@ -1277,11 +1277,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "dfc7d5abf5b75934748bf300f7f6afa7",
+            "collectionId": "e017b875e2ead222124aa49b0bd1922e",
             "rawModeData": ""
         },
         {
-            "id": "e69452d3a927cc4c6902f50ac32fe2f0",
+            "id": "40aaaaf2a8cbcc9b564ee37a2e89a10c",
             "name": "Create a customer",
             "url": "httpsapi.rebilly.com\/v2.1\/customers",
             "description": "Create a customer\n",
@@ -1308,11 +1308,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "dfc7d5abf5b75934748bf300f7f6afa7",
+            "collectionId": "e017b875e2ead222124aa49b0bd1922e",
             "rawModeData": ""
         },
         {
-            "id": "9fb2587804d5a4a40c15bbbaf1d5e6c5",
+            "id": "4f4e83dc2dab5d539f6d344d444be30e",
             "name": "Retrieve a customer",
             "url": "httpsapi.rebilly.com\/v2.1\/customers\/{id}",
             "description": "Retrieve a customer with specified identifier string\n",
@@ -1331,11 +1331,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "dfc7d5abf5b75934748bf300f7f6afa7",
+            "collectionId": "e017b875e2ead222124aa49b0bd1922e",
             "rawModeData": ""
         },
         {
-            "id": "a9c684e778e4144cadf21c6a04a83d51",
+            "id": "a8cb45c5a43e05c41f917caeff6f3a95",
             "name": "Create a customer with predefined ID",
             "url": "httpsapi.rebilly.com\/v2.1\/customers\/{id}",
             "description": "Create a customer with predefined identifier string\n",
@@ -1362,11 +1362,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "dfc7d5abf5b75934748bf300f7f6afa7",
+            "collectionId": "e017b875e2ead222124aa49b0bd1922e",
             "rawModeData": ""
         },
         {
-            "id": "ea3f69ffffcbebc74ec37f08509fd1b0",
+            "id": "87b9f5a7b0cbd106dc5b32bb5ee5e286",
             "name": "Delete a Lead Source for a customer",
             "url": "httpsapi.rebilly.com\/v2.1\/customers\/{id}\/lead-source",
             "description": "Delete a Lead Source that belongs to a certain customer\n",
@@ -1385,11 +1385,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "dfc7d5abf5b75934748bf300f7f6afa7",
+            "collectionId": "e017b875e2ead222124aa49b0bd1922e",
             "rawModeData": ""
         },
         {
-            "id": "fc7611689911473fe8d6216b2a519168",
+            "id": "b5b13dc0482878c516bceb5cc448db04",
             "name": "Retrieve a customer's Lead Source",
             "url": "httpsapi.rebilly.com\/v2.1\/customers\/{id}\/lead-source",
             "description": "Retrieve a Lead Source of given customer\n",
@@ -1408,11 +1408,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "dfc7d5abf5b75934748bf300f7f6afa7",
+            "collectionId": "e017b875e2ead222124aa49b0bd1922e",
             "rawModeData": ""
         },
         {
-            "id": "d3cbecb26ebe195e08e640432d6d597e",
+            "id": "6c6ac3600a2524da2bed8293bcc75c95",
             "name": "Create a Lead Source for a customer",
             "url": "httpsapi.rebilly.com\/v2.1\/customers\/{id}\/lead-source",
             "description": "Create a Lead Source for a customer\n",
@@ -1439,11 +1439,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "dfc7d5abf5b75934748bf300f7f6afa7",
+            "collectionId": "e017b875e2ead222124aa49b0bd1922e",
             "rawModeData": ""
         },
         {
-            "id": "381649b3fbe7b5dd36bc4b3c02d950cb",
+            "id": "d766cdf4e1190e2cb6cf09ee3dbed6da",
             "name": "Retrieve a list of disputes",
             "url": "httpsapi.rebilly.com\/v2.1\/disputes",
             "description": "Retrieve a list of disputes\n",
@@ -1462,11 +1462,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "dfc7d5abf5b75934748bf300f7f6afa7",
+            "collectionId": "e017b875e2ead222124aa49b0bd1922e",
             "rawModeData": ""
         },
         {
-            "id": "d2c16a34b3b2b7a2ebd03d21c16baf0f",
+            "id": "2cd70918d31e1959b94a4155f0db55b6",
             "name": "Create a dispute",
             "url": "httpsapi.rebilly.com\/v2.1\/disputes",
             "description": "Create a dispute\n",
@@ -1493,11 +1493,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "dfc7d5abf5b75934748bf300f7f6afa7",
+            "collectionId": "e017b875e2ead222124aa49b0bd1922e",
             "rawModeData": ""
         },
         {
-            "id": "9342bad3ff714ca22ebc26160310f3fa",
+            "id": "b76bb7b6b997724e6cd3358967b6b009",
             "name": "Retrieve a dispute",
             "url": "httpsapi.rebilly.com\/v2.1\/disputes\/{id}",
             "description": "Retrieve a dispute with specified identifier string\n",
@@ -1516,11 +1516,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "dfc7d5abf5b75934748bf300f7f6afa7",
+            "collectionId": "e017b875e2ead222124aa49b0bd1922e",
             "rawModeData": ""
         },
         {
-            "id": "50078e87a220dcabd085b2877cb78e0a",
+            "id": "bcb7ba79214797c7484257b8dd77642f",
             "name": "Create or update a Dispute with predefined ID",
             "url": "httpsapi.rebilly.com\/v2.1\/disputes\/{id}",
             "description": "Create or update a Dispute with predefined identifier string\n",
@@ -1547,11 +1547,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "dfc7d5abf5b75934748bf300f7f6afa7",
+            "collectionId": "e017b875e2ead222124aa49b0bd1922e",
             "rawModeData": ""
         },
         {
-            "id": "960509f921bd307718775e1f6100c99d",
+            "id": "a1aa67a74ae84a678d3f7d00c5a1c376",
             "name": "Get matched rules for the dispute",
             "url": "httpsapi.rebilly.com\/v2.1\/disputes\/{id}\/matched-rules",
             "description": "Get matched rules for the dispute",
@@ -1570,11 +1570,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "dfc7d5abf5b75934748bf300f7f6afa7",
+            "collectionId": "e017b875e2ead222124aa49b0bd1922e",
             "rawModeData": ""
         },
         {
-            "id": "6e7ee2e3bbbe59ed3a2323af4cf4b210",
+            "id": "ad67616e0f08e45406f1f8c4b8f41dbb",
             "name": "Retrieve a list of files",
             "url": "httpsapi.rebilly.com\/v2.1\/files",
             "description": "Retrieve a list of files\n",
@@ -1601,11 +1601,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "dfc7d5abf5b75934748bf300f7f6afa7",
+            "collectionId": "e017b875e2ead222124aa49b0bd1922e",
             "rawModeData": ""
         },
         {
-            "id": "c0583ae3b9806e1017bd805286c6f910",
+            "id": "6c100749abdb474e149a32979375ebab",
             "name": "Create a file",
             "url": "httpsapi.rebilly.com\/v2.1\/files",
             "description": "Create a file\n",
@@ -1632,11 +1632,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "dfc7d5abf5b75934748bf300f7f6afa7",
+            "collectionId": "e017b875e2ead222124aa49b0bd1922e",
             "rawModeData": ""
         },
         {
-            "id": "e47a71be23de712a5beeb3fb4afb55b5",
+            "id": "3efe99ef3458ed2c17f898dbf95d8101",
             "name": "Delete a File",
             "url": "httpsapi.rebilly.com\/v2.1\/files\/{id}",
             "description": "Delete the File with predefined identifier string\n",
@@ -1655,11 +1655,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "dfc7d5abf5b75934748bf300f7f6afa7",
+            "collectionId": "e017b875e2ead222124aa49b0bd1922e",
             "rawModeData": ""
         },
         {
-            "id": "798f0dc1a218e34cb71cdb4f47455f7a",
+            "id": "1ff8d58732b10c6d249ea4ffdb1ab94f",
             "name": "Retrieve a File Record",
             "url": "httpsapi.rebilly.com\/v2.1\/files\/{id}",
             "description": "Retrieve a File with specified identifier string\n",
@@ -1678,11 +1678,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "dfc7d5abf5b75934748bf300f7f6afa7",
+            "collectionId": "e017b875e2ead222124aa49b0bd1922e",
             "rawModeData": ""
         },
         {
-            "id": "943b203e2872595875db744fbc2dc94a",
+            "id": "701d2d54f338403ec31eae1565a15f1c",
             "name": "Update the File with predefined ID. Note that file can be uploaded with POST only.",
             "url": "httpsapi.rebilly.com\/v2.1\/files\/{id}",
             "description": "Update the File with predefined ID\n",
@@ -1709,11 +1709,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "dfc7d5abf5b75934748bf300f7f6afa7",
+            "collectionId": "e017b875e2ead222124aa49b0bd1922e",
             "rawModeData": ""
         },
         {
-            "id": "7df4e427a9a620d8e2b724a42e8c1f45",
+            "id": "ccd75570e5d7fdf46cd1f636869d1777",
             "name": "Download a file",
             "url": "httpsapi.rebilly.com\/v2.1\/files\/{id}\/download",
             "description": "Download a file\n",
@@ -1732,11 +1732,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "dfc7d5abf5b75934748bf300f7f6afa7",
+            "collectionId": "e017b875e2ead222124aa49b0bd1922e",
             "rawModeData": ""
         },
         {
-            "id": "a078624ae11504a8c46cf20b7f6000b8",
+            "id": "19e82ee94f540874f7f0b63f51d55da8",
             "name": "Download image in specific format",
             "url": "httpsapi.rebilly.com\/v2.1\/files\/{id}\/download{extension}",
             "description": "Download image in specific format. Images are converted server-side\n",
@@ -1755,11 +1755,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "dfc7d5abf5b75934748bf300f7f6afa7",
+            "collectionId": "e017b875e2ead222124aa49b0bd1922e",
             "rawModeData": ""
         },
         {
-            "id": "a6500bf515437b2f2167345839511f65",
+            "id": "6243d563573e34fa30b1e9d6e2b07cf4",
             "name": "Retrieve a list of invoices",
             "url": "httpsapi.rebilly.com\/v2.1\/invoices",
             "description": "Retrieve a list of invoices\n",
@@ -1786,11 +1786,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "dfc7d5abf5b75934748bf300f7f6afa7",
+            "collectionId": "e017b875e2ead222124aa49b0bd1922e",
             "rawModeData": ""
         },
         {
-            "id": "4f4560a7ea119738fe5bae6a876cc8c7",
+            "id": "e07ee20914cf942890125108a2799e67",
             "name": "Create an invoice",
             "url": "httpsapi.rebilly.com\/v2.1\/invoices",
             "description": "Create an invoice\n",
@@ -1817,11 +1817,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "dfc7d5abf5b75934748bf300f7f6afa7",
+            "collectionId": "e017b875e2ead222124aa49b0bd1922e",
             "rawModeData": ""
         },
         {
-            "id": "fe4e997192dd7089ddf4d2cddea056ce",
+            "id": "69a4659c8c7c0398e00cb993f4d1b49a",
             "name": "Retrieve an invoice",
             "url": "httpsapi.rebilly.com\/v2.1\/invoices\/{id}",
             "description": "Retrieve an invoice with specified identifier string\n",
@@ -1848,11 +1848,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "dfc7d5abf5b75934748bf300f7f6afa7",
+            "collectionId": "e017b875e2ead222124aa49b0bd1922e",
             "rawModeData": ""
         },
         {
-            "id": "dc7ba9dee2e86a836c6df3986a3a8508",
+            "id": "583d5097cc1026b630baa45230f39398",
             "name": "Create or update an invoice with predefined ID",
             "url": "httpsapi.rebilly.com\/v2.1\/invoices\/{id}",
             "description": "Create or update an invoice with predefined identifier string\n",
@@ -1879,11 +1879,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "dfc7d5abf5b75934748bf300f7f6afa7",
+            "collectionId": "e017b875e2ead222124aa49b0bd1922e",
             "rawModeData": ""
         },
         {
-            "id": "04998a4fe6a3729695965d0785379b58",
+            "id": "f214f90158c7cdcaedd8e0a1a717a892",
             "name": "Abandon an invoice",
             "url": "httpsapi.rebilly.com\/v2.1\/invoices\/{id}\/abandon",
             "description": "Abandon an invoice with specified identifier string\n",
@@ -1902,11 +1902,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "dfc7d5abf5b75934748bf300f7f6afa7",
+            "collectionId": "e017b875e2ead222124aa49b0bd1922e",
             "rawModeData": ""
         },
         {
-            "id": "b056c0ef36fe1438ad7a5bfeef2d5bb5",
+            "id": "66ef054a3bc3aba7c8e1794dfa80f728",
             "name": "Issue an invoice",
             "url": "httpsapi.rebilly.com\/v2.1\/invoices\/{id}\/issue",
             "description": "Issue an invoice with specified identifier string\n",
@@ -1933,11 +1933,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "dfc7d5abf5b75934748bf300f7f6afa7",
+            "collectionId": "e017b875e2ead222124aa49b0bd1922e",
             "rawModeData": ""
         },
         {
-            "id": "6fc171e39556388af5c5e0db6a3d470d",
+            "id": "87c3f80c87d2c9438e72626605ad3eba",
             "name": "Retrieve invoice items",
             "url": "httpsapi.rebilly.com\/v2.1\/invoices\/{id}\/items",
             "description": "Retrieve an invoice items with specified invoice identifier string\n",
@@ -1956,11 +1956,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "dfc7d5abf5b75934748bf300f7f6afa7",
+            "collectionId": "e017b875e2ead222124aa49b0bd1922e",
             "rawModeData": ""
         },
         {
-            "id": "bdcb397b7e4563b3c6779c4283d021ca",
+            "id": "cbefb4e33414d1caf97cabcb3a6d69ff",
             "name": "Create an invoice item",
             "url": "httpsapi.rebilly.com\/v2.1\/invoices\/{id}\/items",
             "description": "Create an invoice item\n",
@@ -1987,11 +1987,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "dfc7d5abf5b75934748bf300f7f6afa7",
+            "collectionId": "e017b875e2ead222124aa49b0bd1922e",
             "rawModeData": ""
         },
         {
-            "id": "36871d938f571bc8749b487a3ad88f03",
+            "id": "0e8743367d671f239f43f290d2cacfc6",
             "name": "Delete a Lead Source for an invoice",
             "url": "httpsapi.rebilly.com\/v2.1\/invoices\/{id}\/lead-source",
             "description": "Delete a Lead Source that belongs to a certain invoice\n",
@@ -2010,11 +2010,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "dfc7d5abf5b75934748bf300f7f6afa7",
+            "collectionId": "e017b875e2ead222124aa49b0bd1922e",
             "rawModeData": ""
         },
         {
-            "id": "c56ad82d1a5e4daf73efaf75dce52aa1",
+            "id": "aba9149db793f8ee9c87cd6d3b450328",
             "name": "Retrieve an invoice's Lead Source",
             "url": "httpsapi.rebilly.com\/v2.1\/invoices\/{id}\/lead-source",
             "description": "Retrieve a Lead Source of given invoice\n",
@@ -2033,11 +2033,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "dfc7d5abf5b75934748bf300f7f6afa7",
+            "collectionId": "e017b875e2ead222124aa49b0bd1922e",
             "rawModeData": ""
         },
         {
-            "id": "96f124256557b487b9653e8eebb22a0e",
+            "id": "d2a86e22f8df5ad2a7c1ceaad2b56bb3",
             "name": "Create a Lead Source for an invoice",
             "url": "httpsapi.rebilly.com\/v2.1\/invoices\/{id}\/lead-source",
             "description": "Create a Lead Source for an invoice\n",
@@ -2064,11 +2064,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "dfc7d5abf5b75934748bf300f7f6afa7",
+            "collectionId": "e017b875e2ead222124aa49b0bd1922e",
             "rawModeData": ""
         },
         {
-            "id": "90d71e702e2e612bf2a71f75d132b457",
+            "id": "2c0018310156485632921bc4e17cf8e9",
             "name": "Get matched rules for the invoice",
             "url": "httpsapi.rebilly.com\/v2.1\/invoices\/{id}\/matched-rules",
             "description": "Get matched rules for the invoice",
@@ -2087,11 +2087,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "dfc7d5abf5b75934748bf300f7f6afa7",
+            "collectionId": "e017b875e2ead222124aa49b0bd1922e",
             "rawModeData": ""
         },
         {
-            "id": "2f71694631bc3714d6392230ffe9c87c",
+            "id": "d912c85e2d6f9237fe46b9171357b2c8",
             "name": "Void an invoice",
             "url": "httpsapi.rebilly.com\/v2.1\/invoices\/{id}\/void",
             "description": "Void an invoice with specified identifier string\n",
@@ -2110,11 +2110,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "dfc7d5abf5b75934748bf300f7f6afa7",
+            "collectionId": "e017b875e2ead222124aa49b0bd1922e",
             "rawModeData": ""
         },
         {
-            "id": "660bd2e14142fe4ec6bd4038fd7b62ba",
+            "id": "f36d6bdd584a201e4baf8d5d82aa21b1",
             "name": "Retrieve a list of tokens",
             "url": "httpsapi.rebilly.com\/v2.1\/password-tokens",
             "description": "Retrieve a list of tokens\n",
@@ -2133,11 +2133,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "dfc7d5abf5b75934748bf300f7f6afa7",
+            "collectionId": "e017b875e2ead222124aa49b0bd1922e",
             "rawModeData": ""
         },
         {
-            "id": "eb1a5df78464600f8398a87d0bfff0df",
+            "id": "6fe929e4fba0d3e237ab5178173690a0",
             "name": "Create a Reset Password Token",
             "url": "httpsapi.rebilly.com\/v2.1\/password-tokens",
             "description": "Create a Reset Password Token\n",
@@ -2164,11 +2164,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "dfc7d5abf5b75934748bf300f7f6afa7",
+            "collectionId": "e017b875e2ead222124aa49b0bd1922e",
             "rawModeData": ""
         },
         {
-            "id": "f39bc8d9692e5894557496f38cc382da",
+            "id": "cdbe10815969d7b2f37bd81bd4a4bd77",
             "name": "Delete a Reset Password Token",
             "url": "httpsapi.rebilly.com\/v2.1\/password-tokens\/{id}",
             "description": "Delete a Reset Password Token with predefined identifier string\n",
@@ -2187,11 +2187,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "dfc7d5abf5b75934748bf300f7f6afa7",
+            "collectionId": "e017b875e2ead222124aa49b0bd1922e",
             "rawModeData": ""
         },
         {
-            "id": "446a9f46a5e429ef298bf6cd12fded4c",
+            "id": "3e9e44f3209809e2ddcf2bc77423a2c0",
             "name": "Retrieve a Reset Password Token",
             "url": "httpsapi.rebilly.com\/v2.1\/password-tokens\/{id}",
             "description": "Retrieve a Reset Password Token with specified identifier string\n",
@@ -2210,11 +2210,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "dfc7d5abf5b75934748bf300f7f6afa7",
+            "collectionId": "e017b875e2ead222124aa49b0bd1922e",
             "rawModeData": ""
         },
         {
-            "id": "76b2d2c246151b1ac5665477c2530b43",
+            "id": "35a15f2ef6a6f0c0639fd4a5defeb9ff",
             "name": "Retrieve a list of Payment Cards",
             "url": "httpsapi.rebilly.com\/v2.1\/payment-cards",
             "description": "Retrieve a list of Payments Cards\n",
@@ -2233,11 +2233,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "dfc7d5abf5b75934748bf300f7f6afa7",
+            "collectionId": "e017b875e2ead222124aa49b0bd1922e",
             "rawModeData": ""
         },
         {
-            "id": "746b27380ac9d31e0035f7f2e85dd574",
+            "id": "3c5f9c8ab6c4762dd7277919990ba1bb",
             "name": "Create a Payment Card",
             "url": "httpsapi.rebilly.com\/v2.1\/payment-cards",
             "description": "Create a Payment Card\n",
@@ -2264,11 +2264,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "dfc7d5abf5b75934748bf300f7f6afa7",
+            "collectionId": "e017b875e2ead222124aa49b0bd1922e",
             "rawModeData": ""
         },
         {
-            "id": "be2dc2111279da1d72744f3e10a3e993",
+            "id": "951950e2eed9a6760b6b8d36ae542c8d",
             "name": "Retrieve a Payment Card",
             "url": "httpsapi.rebilly.com\/v2.1\/payment-cards\/{id}",
             "description": "Retrieve a Payment Card with specified identifier string\n",
@@ -2287,11 +2287,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "dfc7d5abf5b75934748bf300f7f6afa7",
+            "collectionId": "e017b875e2ead222124aa49b0bd1922e",
             "rawModeData": ""
         },
         {
-            "id": "4ff26e0772b07f9174c214af705bec9f",
+            "id": "e6f0ca0b73e76981d37deb7fb60e4df2",
             "name": "Update a payment card's cvv value with predefined ID",
             "url": "httpsapi.rebilly.com\/v2.1\/payment-cards\/{id}",
             "description": "Update a payment card's cvv value with predefined identifier string\n",
@@ -2318,11 +2318,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "dfc7d5abf5b75934748bf300f7f6afa7",
+            "collectionId": "e017b875e2ead222124aa49b0bd1922e",
             "rawModeData": ""
         },
         {
-            "id": "36a22e500f5a6c8d6817d2bfb7719bda",
+            "id": "76340ddf563d9cd96fc2ee3e72b4639f",
             "name": "Create a payment card with predefined ID",
             "url": "httpsapi.rebilly.com\/v2.1\/payment-cards\/{id}",
             "description": "",
@@ -2349,11 +2349,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "dfc7d5abf5b75934748bf300f7f6afa7",
+            "collectionId": "e017b875e2ead222124aa49b0bd1922e",
             "rawModeData": ""
         },
         {
-            "id": "37635f9110695c6203a5b934891cfbe7",
+            "id": "9a9ffd9e4cc96212a11e6cb3ac7029dd",
             "name": "Authorize a Payment Card",
             "url": "httpsapi.rebilly.com\/v2.1\/payment-cards\/{id}\/authorization",
             "description": "Authorize a Payment Card\n",
@@ -2380,11 +2380,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "dfc7d5abf5b75934748bf300f7f6afa7",
+            "collectionId": "e017b875e2ead222124aa49b0bd1922e",
             "rawModeData": ""
         },
         {
-            "id": "ad868a0682eb7f9754b43e76bce4cd01",
+            "id": "9cb4814798b33a5a8bf5440415086ea6",
             "name": "Deactivate a Payment Card",
             "url": "httpsapi.rebilly.com\/v2.1\/payment-cards\/{id}\/deactivation",
             "description": "Deactivate a Payment Card\n",
@@ -2403,11 +2403,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "dfc7d5abf5b75934748bf300f7f6afa7",
+            "collectionId": "e017b875e2ead222124aa49b0bd1922e",
             "rawModeData": ""
         },
         {
-            "id": "6698482dc6b4e4a15ecbc92f190a4487",
+            "id": "bb7f26dcb0cb61e2d1e463ee7a89f530",
             "name": "Get matched rules for the payment card",
             "url": "httpsapi.rebilly.com\/v2.1\/payment-cards\/{id}\/matched-rules",
             "description": "Get matched rules for the payment card",
@@ -2426,11 +2426,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "dfc7d5abf5b75934748bf300f7f6afa7",
+            "collectionId": "e017b875e2ead222124aa49b0bd1922e",
             "rawModeData": ""
         },
         {
-            "id": "8219c8053502b8dfff058cd8a480aa30",
+            "id": "84caa1ee8d9e47189914d0b65eafa552",
             "name": "Retrieve a payment list",
             "url": "httpsapi.rebilly.com\/v2.1\/payments",
             "description": "Retrieve a payment list\n",
@@ -2457,11 +2457,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "dfc7d5abf5b75934748bf300f7f6afa7",
+            "collectionId": "e017b875e2ead222124aa49b0bd1922e",
             "rawModeData": ""
         },
         {
-            "id": "5ebdb0179b46b7e32f3b7684239156e4",
+            "id": "ffdfc50ad8a7656a7a59be234c872496",
             "name": "Create a payment",
             "url": "httpsapi.rebilly.com\/v2.1\/payments",
             "description": "Create a payment\n",
@@ -2488,11 +2488,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "dfc7d5abf5b75934748bf300f7f6afa7",
+            "collectionId": "e017b875e2ead222124aa49b0bd1922e",
             "rawModeData": ""
         },
         {
-            "id": "4c2e8d52aa0d3038d16087a292105fe7",
+            "id": "b19ef9e11e2e6a1f7c65f53764b77fc7",
             "name": "Retrieve a payment",
             "url": "httpsapi.rebilly.com\/v2.1\/payments\/{id}",
             "description": "Retrieve a payment with specified identifier string\n",
@@ -2511,11 +2511,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "dfc7d5abf5b75934748bf300f7f6afa7",
+            "collectionId": "e017b875e2ead222124aa49b0bd1922e",
             "rawModeData": ""
         },
         {
-            "id": "e5be621d62ad260a42bab5fd0db73bad",
+            "id": "cd16859b38b0c6d459cf22524ae88689",
             "name": "Create a payment with predefined ID",
             "url": "httpsapi.rebilly.com\/v2.1\/payments\/{id}",
             "description": "Make a payment with predefined identifier string\n",
@@ -2542,11 +2542,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "dfc7d5abf5b75934748bf300f7f6afa7",
+            "collectionId": "e017b875e2ead222124aa49b0bd1922e",
             "rawModeData": ""
         },
         {
-            "id": "c3afd2fc839893510f8bafe0ee77cd67",
+            "id": "cacac020ebf546c7a215db16d7daf885",
             "name": "Retrieve a list of PayPal accounts",
             "url": "httpsapi.rebilly.com\/v2.1\/paypal-accounts",
             "description": "Retrieve a list of PayPal Accounts\n",
@@ -2565,11 +2565,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "dfc7d5abf5b75934748bf300f7f6afa7",
+            "collectionId": "e017b875e2ead222124aa49b0bd1922e",
             "rawModeData": ""
         },
         {
-            "id": "2922224b022e00ca24b0b4f058a592ff",
+            "id": "db7f36a4ef292555fc3ff99bf51fddd2",
             "name": "Create a PayPal Account",
             "url": "httpsapi.rebilly.com\/v2.1\/paypal-accounts",
             "description": "Create a PayPal Account\n",
@@ -2596,11 +2596,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "dfc7d5abf5b75934748bf300f7f6afa7",
+            "collectionId": "e017b875e2ead222124aa49b0bd1922e",
             "rawModeData": ""
         },
         {
-            "id": "a34f031f281dac4651f14c9011ad0c7b",
+            "id": "906d08bf8db3eadac3cab8b838a5f9af",
             "name": "Retrieve a PayPal Account",
             "url": "httpsapi.rebilly.com\/v2.1\/paypal-accounts\/{id}",
             "description": "Retrieve a PayPal Account with specified identifier string\n",
@@ -2619,11 +2619,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "dfc7d5abf5b75934748bf300f7f6afa7",
+            "collectionId": "e017b875e2ead222124aa49b0bd1922e",
             "rawModeData": ""
         },
         {
-            "id": "a74e753b8d7fb5681cf76405f60892e0",
+            "id": "fbf769d44e6b41cbec609f8c6d49f114",
             "name": "Create a PayPal account with predefined ID",
             "url": "httpsapi.rebilly.com\/v2.1\/paypal-accounts\/{id}",
             "description": "",
@@ -2650,11 +2650,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "dfc7d5abf5b75934748bf300f7f6afa7",
+            "collectionId": "e017b875e2ead222124aa49b0bd1922e",
             "rawModeData": ""
         },
         {
-            "id": "c7fa902c808c5f3cdcfea4a3980b0c27",
+            "id": "2c1911dc1ee9d9a61548e468b86eaeb1",
             "name": "Activate a PayPal Account",
             "url": "httpsapi.rebilly.com\/v2.1\/paypal-accounts\/{id}\/activation",
             "description": "Activate a PayPal Account\n",
@@ -2681,11 +2681,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "dfc7d5abf5b75934748bf300f7f6afa7",
+            "collectionId": "e017b875e2ead222124aa49b0bd1922e",
             "rawModeData": ""
         },
         {
-            "id": "3dc886a329c1e845c1f22fa06861a302",
+            "id": "d4a8687e52af67890cbf66f3e24a8c96",
             "name": "Deactivate a PayPal Account",
             "url": "httpsapi.rebilly.com\/v2.1\/paypal-accounts\/{id}\/deactivation",
             "description": "Deactivate a PayPal Account\n",
@@ -2704,11 +2704,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "dfc7d5abf5b75934748bf300f7f6afa7",
+            "collectionId": "e017b875e2ead222124aa49b0bd1922e",
             "rawModeData": ""
         },
         {
-            "id": "3b7e5182808773270ba87c1b30fee9c4",
+            "id": "3bd9e7a16ce97b1edbf4351ad987b7b6",
             "name": "Retrieve a list of plans",
             "url": "httpsapi.rebilly.com\/v2.1\/plans",
             "description": "Retrieve a list of plans\n",
@@ -2727,11 +2727,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "dfc7d5abf5b75934748bf300f7f6afa7",
+            "collectionId": "e017b875e2ead222124aa49b0bd1922e",
             "rawModeData": ""
         },
         {
-            "id": "20c749aa8b0f837a5e0a4cf0d90d2787",
+            "id": "8d2bed4c3443ba126c7863ee2ca3514e",
             "name": "Create a plan",
             "url": "httpsapi.rebilly.com\/v2.1\/plans",
             "description": "Create a plan\n",
@@ -2758,11 +2758,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "dfc7d5abf5b75934748bf300f7f6afa7",
+            "collectionId": "e017b875e2ead222124aa49b0bd1922e",
             "rawModeData": ""
         },
         {
-            "id": "696c4da7c0444c6bf32f520032b10313",
+            "id": "3c0e39c7c6e396fb5624accd98b64e0e",
             "name": "Delete a Plan",
             "url": "httpsapi.rebilly.com\/v2.1\/plans\/{id}",
             "description": "Delete a Plan with predefined identifier string\n",
@@ -2781,11 +2781,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "dfc7d5abf5b75934748bf300f7f6afa7",
+            "collectionId": "e017b875e2ead222124aa49b0bd1922e",
             "rawModeData": ""
         },
         {
-            "id": "f69af7d3ee1cc86af2b0c547f8b83c42",
+            "id": "687723a62dca74d23d736a79eb01bbfc",
             "name": "Retrieve a plan",
             "url": "httpsapi.rebilly.com\/v2.1\/plans\/{id}",
             "description": "Retrieve a plan with specified identifier string\n",
@@ -2804,11 +2804,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "dfc7d5abf5b75934748bf300f7f6afa7",
+            "collectionId": "e017b875e2ead222124aa49b0bd1922e",
             "rawModeData": ""
         },
         {
-            "id": "db073ec8dfce38e1b62a332d626db98b",
+            "id": "ec341ea58f58899cc19997014680ae25",
             "name": "Create or update a Plan with predefined ID",
             "url": "httpsapi.rebilly.com\/v2.1\/plans\/{id}",
             "description": "Create or update a Plan with predefined identifier string\n",
@@ -2835,11 +2835,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "dfc7d5abf5b75934748bf300f7f6afa7",
+            "collectionId": "e017b875e2ead222124aa49b0bd1922e",
             "rawModeData": ""
         },
         {
-            "id": "df63ff2b04a29ad623d62df27f9895d7",
+            "id": "c7b6e1175b216ff15503659e37554931",
             "name": "Retrieve a list of products",
             "url": "httpsapi.rebilly.com\/v2.1\/products",
             "description": "Retrieve a list of products\n",
@@ -2858,11 +2858,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "dfc7d5abf5b75934748bf300f7f6afa7",
+            "collectionId": "e017b875e2ead222124aa49b0bd1922e",
             "rawModeData": ""
         },
         {
-            "id": "22507c26c0711e772aef9d42496023df",
+            "id": "7f4047c8505bb4fc4a343852ea1740ca",
             "name": "Create a Product",
             "url": "httpsapi.rebilly.com\/v2.1\/products",
             "description": "Create a Product\n",
@@ -2889,11 +2889,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "dfc7d5abf5b75934748bf300f7f6afa7",
+            "collectionId": "e017b875e2ead222124aa49b0bd1922e",
             "rawModeData": ""
         },
         {
-            "id": "89d2f7b2f131f5c1ef097f22f0d059f0",
+            "id": "f6f9a3f714da05e46830c89b66602b07",
             "name": "Delete a product",
             "url": "httpsapi.rebilly.com\/v2.1\/products\/{id}",
             "description": "Delete a product with predefined identifier string\n",
@@ -2912,11 +2912,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "dfc7d5abf5b75934748bf300f7f6afa7",
+            "collectionId": "e017b875e2ead222124aa49b0bd1922e",
             "rawModeData": ""
         },
         {
-            "id": "7109524de0db4cfcede135f5fb04251c",
+            "id": "9d5498fed9f26a861cd151eb8fe29ef6",
             "name": "Retrieve a product",
             "url": "httpsapi.rebilly.com\/v2.1\/products\/{id}",
             "description": "Retrieve a product with specified identifier string\n",
@@ -2935,11 +2935,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "dfc7d5abf5b75934748bf300f7f6afa7",
+            "collectionId": "e017b875e2ead222124aa49b0bd1922e",
             "rawModeData": ""
         },
         {
-            "id": "075efa87daad9ff2a4bee5f4e486b3f8",
+            "id": "b0bd3e5e8e67ce63db4bd7432b02361f",
             "name": "Create a product with predefined ID",
             "url": "httpsapi.rebilly.com\/v2.1\/products\/{id}",
             "description": "Create a product with predefined identifier string\n",
@@ -2966,11 +2966,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "dfc7d5abf5b75934748bf300f7f6afa7",
+            "collectionId": "e017b875e2ead222124aa49b0bd1922e",
             "rawModeData": ""
         },
         {
-            "id": "2a4a06696003e93b2093bb1ce6c8131c",
+            "id": "414c35eab69338a1e38457c5749dabde",
             "name": "Retrieve a scheduled payment list",
             "url": "httpsapi.rebilly.com\/v2.1\/queue\/payments",
             "description": "Retrieve a scheduled payment list\n",
@@ -2989,11 +2989,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "dfc7d5abf5b75934748bf300f7f6afa7",
+            "collectionId": "e017b875e2ead222124aa49b0bd1922e",
             "rawModeData": ""
         },
         {
-            "id": "ba10ab9b76f6cf8ef829992f246c41dd",
+            "id": "72bb225f14bb69d4b69e286ff2f83790",
             "name": "Retrieve a scheduled payment",
             "url": "httpsapi.rebilly.com\/v2.1\/queue\/payments\/{id}",
             "description": "Retrieve a payment with specified identifier string\n",
@@ -3012,11 +3012,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "dfc7d5abf5b75934748bf300f7f6afa7",
+            "collectionId": "e017b875e2ead222124aa49b0bd1922e",
             "rawModeData": ""
         },
         {
-            "id": "61d6c303a271220057344be5326dba3e",
+            "id": "96c05b9d56467ed5339dce0f1eeeb29c",
             "name": "Update pending payment",
             "url": "httpsapi.rebilly.com\/v2.1\/queue\/payments\/{id}",
             "description": "",
@@ -3043,11 +3043,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "dfc7d5abf5b75934748bf300f7f6afa7",
+            "collectionId": "e017b875e2ead222124aa49b0bd1922e",
             "rawModeData": ""
         },
         {
-            "id": "687382f3e2384f58c1f4c4123a0b189a",
+            "id": "3887c014b4a958c9fc64a81d9195e7d4",
             "name": "Retrieve a list of shipping zones",
             "url": "httpsapi.rebilly.com\/v2.1\/shipping-zones",
             "description": "Retrieve a list of shipping zones\n",
@@ -3066,11 +3066,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "dfc7d5abf5b75934748bf300f7f6afa7",
+            "collectionId": "e017b875e2ead222124aa49b0bd1922e",
             "rawModeData": ""
         },
         {
-            "id": "71e1b4916142daf6bc188b380646185d",
+            "id": "72e75edab7f2f02fcd4ecb19e669cfe8",
             "name": "Create a Shipping Zone",
             "url": "httpsapi.rebilly.com\/v2.1\/shipping-zones",
             "description": "Create a Shipping Zone\n",
@@ -3097,11 +3097,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "dfc7d5abf5b75934748bf300f7f6afa7",
+            "collectionId": "e017b875e2ead222124aa49b0bd1922e",
             "rawModeData": ""
         },
         {
-            "id": "d6aed5e726613b8b255e66d4a2a7c81e",
+            "id": "00b8660961ede8c93eee1d50623b9d57",
             "name": "Delete a shipping zone",
             "url": "httpsapi.rebilly.com\/v2.1\/shipping-zones\/{id}",
             "description": "Delete a shipping zone with predefined identifier string\n",
@@ -3120,11 +3120,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "dfc7d5abf5b75934748bf300f7f6afa7",
+            "collectionId": "e017b875e2ead222124aa49b0bd1922e",
             "rawModeData": ""
         },
         {
-            "id": "aeb1c9162ab5ff823cb5ac8b14971a36",
+            "id": "e6a98ba2e4aeae681fb69bb4c145326b",
             "name": "Retrieve a shipping zone",
             "url": "httpsapi.rebilly.com\/v2.1\/shipping-zones\/{id}",
             "description": "Retrieve a shipping zone with specified identifier string\n",
@@ -3143,11 +3143,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "dfc7d5abf5b75934748bf300f7f6afa7",
+            "collectionId": "e017b875e2ead222124aa49b0bd1922e",
             "rawModeData": ""
         },
         {
-            "id": "03e610f1c19a467bcd67beccccf4c04d",
+            "id": "c1c2e53439a1a60ca69599082ae8ae1e",
             "name": "Create a shipping zone with predefined ID",
             "url": "httpsapi.rebilly.com\/v2.1\/shipping-zones\/{id}",
             "description": "Create a shipping zone with predefined identifier string\n",
@@ -3174,11 +3174,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "dfc7d5abf5b75934748bf300f7f6afa7",
+            "collectionId": "e017b875e2ead222124aa49b0bd1922e",
             "rawModeData": ""
         },
         {
-            "id": "ee0c29c67a4549dd2400a86e4db57e84",
+            "id": "5c5b3c9d519fe6e428ff29d38433699f",
             "name": "Retrieve a list of subscriptions",
             "url": "httpsapi.rebilly.com\/v2.1\/subscriptions",
             "description": "Retrieve a list of subscriptions\n",
@@ -3205,11 +3205,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "dfc7d5abf5b75934748bf300f7f6afa7",
+            "collectionId": "e017b875e2ead222124aa49b0bd1922e",
             "rawModeData": ""
         },
         {
-            "id": "8b76080328a49313cb8eef239faf6467",
+            "id": "cc57cab33e2adb159626676593a8b210",
             "name": "Create a subscription",
             "url": "httpsapi.rebilly.com\/v2.1\/subscriptions",
             "description": "Create a subscription\n",
@@ -3236,11 +3236,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "dfc7d5abf5b75934748bf300f7f6afa7",
+            "collectionId": "e017b875e2ead222124aa49b0bd1922e",
             "rawModeData": ""
         },
         {
-            "id": "94a4afe9ec99cb07d7ba72a37b5de559",
+            "id": "1e1f0a573a65fa7bf29f3d35d365cf5d",
             "name": "Retrieve a subscription",
             "url": "httpsapi.rebilly.com\/v2.1\/subscriptions\/{id}",
             "description": "Retrieve a subscription with specified identifier string\n",
@@ -3259,11 +3259,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "dfc7d5abf5b75934748bf300f7f6afa7",
+            "collectionId": "e017b875e2ead222124aa49b0bd1922e",
             "rawModeData": ""
         },
         {
-            "id": "efe7af132b4b3cb99bf5b54ec79e4ed6",
+            "id": "81a0067461e0c6a9736c867867f30d27",
             "name": "Create or update a subscription with predefined ID",
             "url": "httpsapi.rebilly.com\/v2.1\/subscriptions\/{id}",
             "description": "Create or update a subscription with predefined identifier string\n",
@@ -3290,11 +3290,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "dfc7d5abf5b75934748bf300f7f6afa7",
+            "collectionId": "e017b875e2ead222124aa49b0bd1922e",
             "rawModeData": ""
         },
         {
-            "id": "784ad4b0fcaaafa7a6d6c662e2f958ee",
+            "id": "21f38aa83b35f1585cdbbb743cde1e45",
             "name": "Cancel a subscription",
             "url": "httpsapi.rebilly.com\/v2.1\/subscriptions\/{id}\/cancel",
             "description": "Cancel a subscription\n",
@@ -3321,11 +3321,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "dfc7d5abf5b75934748bf300f7f6afa7",
+            "collectionId": "e017b875e2ead222124aa49b0bd1922e",
             "rawModeData": ""
         },
         {
-            "id": "ba4138687073c1cbe04510c60e8e4765",
+            "id": "ed1bf8262ff24abf642948292d6c1a89",
             "name": "Delete a Lead Source for a Subscription",
             "url": "httpsapi.rebilly.com\/v2.1\/subscriptions\/{id}\/lead-source",
             "description": "Delete a Lead Source that belongs to a certain Subscription\n",
@@ -3344,11 +3344,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "dfc7d5abf5b75934748bf300f7f6afa7",
+            "collectionId": "e017b875e2ead222124aa49b0bd1922e",
             "rawModeData": ""
         },
         {
-            "id": "81393d1ff4ac9a8ca09adc2cad6df02e",
+            "id": "762793eda8289261d1f752249aef52c7",
             "name": "Retrieve a subscription's Lead Source",
             "url": "httpsapi.rebilly.com\/v2.1\/subscriptions\/{id}\/lead-source",
             "description": "Retrieve a Lead Source of given subscription\n",
@@ -3367,11 +3367,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "dfc7d5abf5b75934748bf300f7f6afa7",
+            "collectionId": "e017b875e2ead222124aa49b0bd1922e",
             "rawModeData": ""
         },
         {
-            "id": "56306f48525a4b161760c2dc565326c3",
+            "id": "a7e1ac9ce8109807c962604e0e267725",
             "name": "Create a Lead Source for a Subscription",
             "url": "httpsapi.rebilly.com\/v2.1\/subscriptions\/{id}\/lead-source",
             "description": "Create a Lead Source for a Subscription\n",
@@ -3398,11 +3398,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "dfc7d5abf5b75934748bf300f7f6afa7",
+            "collectionId": "e017b875e2ead222124aa49b0bd1922e",
             "rawModeData": ""
         },
         {
-            "id": "d0fbcda398890ac83a93baef1e19adec",
+            "id": "4a4831304741fed180c43f87938f33eb",
             "name": "Get matched rules for the subscription",
             "url": "httpsapi.rebilly.com\/v2.1\/subscriptions\/{id}\/matched-rules",
             "description": "Get matched rules for the subscription",
@@ -3421,11 +3421,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "dfc7d5abf5b75934748bf300f7f6afa7",
+            "collectionId": "e017b875e2ead222124aa49b0bd1922e",
             "rawModeData": ""
         },
         {
-            "id": "66e2da7b412bcb2056e6160a406296a2",
+            "id": "8c72ee1a846a6cd9e48e28d7f24d9656",
             "name": "Switch a subscription",
             "url": "httpsapi.rebilly.com\/v2.1\/subscriptions\/{id}\/switch",
             "description": "Switch a subscription\n",
@@ -3452,11 +3452,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "dfc7d5abf5b75934748bf300f7f6afa7",
+            "collectionId": "e017b875e2ead222124aa49b0bd1922e",
             "rawModeData": ""
         },
         {
-            "id": "9b0ac5c2a38750e0f03c006a4f9ff5d0",
+            "id": "89fe768709a06ebade00be967f8f3979",
             "name": "Retrieve a list of tax categories",
             "url": "httpsapi.rebilly.com\/v2.1\/tax-categories",
             "description": "Retrieve a list of tax categories\n",
@@ -3475,11 +3475,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "dfc7d5abf5b75934748bf300f7f6afa7",
+            "collectionId": "e017b875e2ead222124aa49b0bd1922e",
             "rawModeData": ""
         },
         {
-            "id": "a61f3dfed868e3d948138ace46836235",
+            "id": "99375aa3e8d29d2f051164fa2420002f",
             "name": "Retrieve a list of tokens",
             "url": "httpsapi.rebilly.com\/v2.1\/tokens",
             "description": "Retrieve a list of tokens\n",
@@ -3498,11 +3498,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "dfc7d5abf5b75934748bf300f7f6afa7",
+            "collectionId": "e017b875e2ead222124aa49b0bd1922e",
             "rawModeData": ""
         },
         {
-            "id": "396dcdf24f06abf9823fddd27a847092",
+            "id": "40f606eef8e19b51f105874be9ba5637",
             "name": "Create a payment token",
             "url": "httpsapi.rebilly.com\/v2.1\/tokens",
             "description": "Create a token\n",
@@ -3529,11 +3529,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "dfc7d5abf5b75934748bf300f7f6afa7",
+            "collectionId": "e017b875e2ead222124aa49b0bd1922e",
             "rawModeData": ""
         },
         {
-            "id": "9f4c3f96287ed6f6d13854f29ba4e50c",
+            "id": "0939e5e4c4c9a6853c5239182d3be910",
             "name": "Retrieve a token",
             "url": "httpsapi.rebilly.com\/v2.1\/tokens\/{token}",
             "description": "Retrieve a token with specified identifier string\n",
@@ -3552,11 +3552,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "dfc7d5abf5b75934748bf300f7f6afa7",
+            "collectionId": "e017b875e2ead222124aa49b0bd1922e",
             "rawModeData": ""
         },
         {
-            "id": "69b578363aebd801f787723527c6e6da",
+            "id": "e0501349da2d95f65084b5f9fabd5f7c",
             "name": "Expire a token",
             "url": "httpsapi.rebilly.com\/v2.1\/tokens\/{token}\/expiration",
             "description": "Expire a token\n",
@@ -3583,11 +3583,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "dfc7d5abf5b75934748bf300f7f6afa7",
+            "collectionId": "e017b875e2ead222124aa49b0bd1922e",
             "rawModeData": ""
         },
         {
-            "id": "ec1fd1a7e8a560a18cf97f9868f0d471",
+            "id": "37fc93f8ac9b690c8e19aa5cd6afc1ea",
             "name": "Retrieve a list of transactions",
             "url": "httpsapi.rebilly.com\/v2.1\/transactions",
             "description": "Retrieve a list of transactions\n",
@@ -3614,11 +3614,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "dfc7d5abf5b75934748bf300f7f6afa7",
+            "collectionId": "e017b875e2ead222124aa49b0bd1922e",
             "rawModeData": ""
         },
         {
-            "id": "610e9910dc5e6357a222c9a83861fd1f",
+            "id": "4a0305307cccdae544160dd9308f8a2d",
             "name": "Retrieve a Transaction",
             "url": "httpsapi.rebilly.com\/v2.1\/transactions\/{id}",
             "description": "Retrieve a Transaction with specified identifier string\n",
@@ -3637,11 +3637,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "dfc7d5abf5b75934748bf300f7f6afa7",
+            "collectionId": "e017b875e2ead222124aa49b0bd1922e",
             "rawModeData": ""
         },
         {
-            "id": "5d794e3409e61c6e5bbbfc4ec3cf9da0",
+            "id": "fb5a15b3f3d511e7d959504d08f49028",
             "name": "Cancel a pending or suspended transaction",
             "url": "httpsapi.rebilly.com\/v2.1\/transactions\/{id}\/cancel",
             "description": "Cancel a scheduled transaction. Once handled a transaction cannot be canceled",
@@ -3660,11 +3660,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "dfc7d5abf5b75934748bf300f7f6afa7",
+            "collectionId": "e017b875e2ead222124aa49b0bd1922e",
             "rawModeData": ""
         },
         {
-            "id": "80d5bc5732c73f301eff89888ac375cb",
+            "id": "49a4398c5e59a0ecf1640fbccb6c855a",
             "name": "Retrieve a Transaction Gateway Logs",
             "url": "httpsapi.rebilly.com\/v2.1\/transactions\/{id}\/gateway-logs",
             "description": "Retrieve Gateway communication Logs for Transaction with specified identifier string",
@@ -3683,11 +3683,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "dfc7d5abf5b75934748bf300f7f6afa7",
+            "collectionId": "e017b875e2ead222124aa49b0bd1922e",
             "rawModeData": ""
         },
         {
-            "id": "ccdb15d30c08cb96dde269065b57514e",
+            "id": "15fb3a5d929b5e7ec9cd3721959582c8",
             "name": "Delete a Lead Source for a transaction",
             "url": "httpsapi.rebilly.com\/v2.1\/transactions\/{id}\/lead-source",
             "description": "Delete a Lead Source that belongs to a certain transaction\n",
@@ -3706,11 +3706,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "dfc7d5abf5b75934748bf300f7f6afa7",
+            "collectionId": "e017b875e2ead222124aa49b0bd1922e",
             "rawModeData": ""
         },
         {
-            "id": "8519856f1a88404d9b814ff46c716cbc",
+            "id": "295527cfe5a98101dd1fce5006388736",
             "name": "Retrieve a transaction's Lead Source",
             "url": "httpsapi.rebilly.com\/v2.1\/transactions\/{id}\/lead-source",
             "description": "Retrieve a Lead Source of given transaction\n",
@@ -3729,11 +3729,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "dfc7d5abf5b75934748bf300f7f6afa7",
+            "collectionId": "e017b875e2ead222124aa49b0bd1922e",
             "rawModeData": ""
         },
         {
-            "id": "ab90492ba5a0db4751fe02f388e4e9bc",
+            "id": "3129c313f7f2723cdcdd40d1de915627",
             "name": "Create a Lead Source for a transaction",
             "url": "httpsapi.rebilly.com\/v2.1\/transactions\/{id}\/lead-source",
             "description": "Create a Lead Source for a transaction\n",
@@ -3760,11 +3760,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "dfc7d5abf5b75934748bf300f7f6afa7",
+            "collectionId": "e017b875e2ead222124aa49b0bd1922e",
             "rawModeData": ""
         },
         {
-            "id": "8461c4fc495fcba5ef5424e3cddc748a",
+            "id": "18285a0c34632270b3b89d435286e118",
             "name": "Get matched rules for the transaction",
             "url": "httpsapi.rebilly.com\/v2.1\/transactions\/{id}\/matched-rules",
             "description": "Get matched rules for the transaction",
@@ -3783,11 +3783,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "dfc7d5abf5b75934748bf300f7f6afa7",
+            "collectionId": "e017b875e2ead222124aa49b0bd1922e",
             "rawModeData": ""
         },
         {
-            "id": "d515c26dfe796bd6fcc9dd417fc21168",
+            "id": "3e3ab1c200606c889f5201833ec6a2d2",
             "name": "Refund a Transaction",
             "url": "httpsapi.rebilly.com\/v2.1\/transactions\/{id}\/refund",
             "description": "Refund a Transaction with specified identifier string.\nNote that the refund will be in the same currency as the original transaction.\n",
@@ -3814,11 +3814,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "dfc7d5abf5b75934748bf300f7f6afa7",
+            "collectionId": "e017b875e2ead222124aa49b0bd1922e",
             "rawModeData": ""
         },
         {
-            "id": "8282bfb0d5351d63a411f71dee91dbb7",
+            "id": "91c2a03ce8d213574453463ab1fac98c",
             "name": "Sends a token to activate user account",
             "url": "httpsapi.rebilly.com\/v2.1\/activation\/{token}",
             "description": "Sends a token to activate user account\n",
@@ -3837,11 +3837,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "dfc7d5abf5b75934748bf300f7f6afa7",
+            "collectionId": "e017b875e2ead222124aa49b0bd1922e",
             "rawModeData": ""
         },
         {
-            "id": "c3382bf55893f25683eb6944bb8a27c6",
+            "id": "cadbfc4c2ae66517e4c4a5faf6e37fbf",
             "name": "Retrieve a list of api keys",
             "url": "httpsapi.rebilly.com\/v2.1\/api-keys",
             "description": "Retrieve a list of api keys\n",
@@ -3860,11 +3860,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "dfc7d5abf5b75934748bf300f7f6afa7",
+            "collectionId": "e017b875e2ead222124aa49b0bd1922e",
             "rawModeData": ""
         },
         {
-            "id": "0d34886c0e86e9225cf83d75a1067445",
+            "id": "cc4903172a95d0df825d5d0ad384a9ba",
             "name": "Create an api key",
             "url": "httpsapi.rebilly.com\/v2.1\/api-keys",
             "description": "Create an api key\n",
@@ -3891,11 +3891,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "dfc7d5abf5b75934748bf300f7f6afa7",
+            "collectionId": "e017b875e2ead222124aa49b0bd1922e",
             "rawModeData": ""
         },
         {
-            "id": "1d3498126db048d6492f47fcc69edb21",
+            "id": "ba4201703a2d27bc3c8e4f984d904793",
             "name": "Delete api key",
             "url": "httpsapi.rebilly.com\/v2.1\/api-keys\/{id}",
             "description": "Delete api key with predefined identifier string\n",
@@ -3914,11 +3914,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "dfc7d5abf5b75934748bf300f7f6afa7",
+            "collectionId": "e017b875e2ead222124aa49b0bd1922e",
             "rawModeData": ""
         },
         {
-            "id": "666dfc6ea8ef2f0c0fa28c565d761590",
+            "id": "cec92e67a93ff827bee59a60ca4623a1",
             "name": "Retrieve api key",
             "url": "httpsapi.rebilly.com\/v2.1\/api-keys\/{id}",
             "description": "Retrieve api key with specified identifier string\n",
@@ -3937,11 +3937,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "dfc7d5abf5b75934748bf300f7f6afa7",
+            "collectionId": "e017b875e2ead222124aa49b0bd1922e",
             "rawModeData": ""
         },
         {
-            "id": "f2046636471f023de6376651f61674e9",
+            "id": "e9700724fd546eb0a197f05b40a0ef9f",
             "name": "Create or update api key with predefined ID",
             "url": "httpsapi.rebilly.com\/v2.1\/api-keys\/{id}",
             "description": "Create or update api key with predefined identifier string\n",
@@ -3968,11 +3968,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "dfc7d5abf5b75934748bf300f7f6afa7",
+            "collectionId": "e017b875e2ead222124aa49b0bd1922e",
             "rawModeData": ""
         },
         {
-            "id": "1d1be8ec4d137d81a35d38a5af80e110",
+            "id": "97e8d41cfe567e50b5c6493b53570d92",
             "name": "Retrieve a list of checkout pages",
             "url": "httpsapi.rebilly.com\/v2.1\/checkout-pages",
             "description": "Retrieve a list of checkout pages\n",
@@ -3991,11 +3991,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "dfc7d5abf5b75934748bf300f7f6afa7",
+            "collectionId": "e017b875e2ead222124aa49b0bd1922e",
             "rawModeData": ""
         },
         {
-            "id": "dca1d78723467fa351c2534e0b0388e0",
+            "id": "432e65ca65e71edbc5ed4e61235f4f5e",
             "name": "Create a Checkout Page",
             "url": "httpsapi.rebilly.com\/v2.1\/checkout-pages",
             "description": "Create a Checkout Page\n",
@@ -4022,11 +4022,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "dfc7d5abf5b75934748bf300f7f6afa7",
+            "collectionId": "e017b875e2ead222124aa49b0bd1922e",
             "rawModeData": ""
         },
         {
-            "id": "d2afe970a9dca60e954f4bf1b1927df9",
+            "id": "007dc89583ae16bd0475a0c05fa71238",
             "name": "Delete a Checkout Page",
             "url": "httpsapi.rebilly.com\/v2.1\/checkout-pages\/{id}",
             "description": "Delete a Checkout Page with predefined identifier string\n",
@@ -4045,11 +4045,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "dfc7d5abf5b75934748bf300f7f6afa7",
+            "collectionId": "e017b875e2ead222124aa49b0bd1922e",
             "rawModeData": ""
         },
         {
-            "id": "8621047cbc5ceb91a1ba1ed48d0f4b08",
+            "id": "9fa2a74e7dd96d676e5d2fe70f4cfdd6",
             "name": "Retrieve a Checkout Page",
             "url": "httpsapi.rebilly.com\/v2.1\/checkout-pages\/{id}",
             "description": "Retrieve a Checkout Page with specified identifier string\n",
@@ -4068,11 +4068,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "dfc7d5abf5b75934748bf300f7f6afa7",
+            "collectionId": "e017b875e2ead222124aa49b0bd1922e",
             "rawModeData": ""
         },
         {
-            "id": "e54d42121fbd3be5c1e6fed369015653",
+            "id": "0c62d82cf347168b63b8e997753e9046",
             "name": "Create or update a Checkout Page with predefined ID",
             "url": "httpsapi.rebilly.com\/v2.1\/checkout-pages\/{id}",
             "description": "Create or update a Checkout Page with predefined identifier string\n",
@@ -4099,11 +4099,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "dfc7d5abf5b75934748bf300f7f6afa7",
+            "collectionId": "e017b875e2ead222124aa49b0bd1922e",
             "rawModeData": ""
         },
         {
-            "id": "f2063d1cc872b4cb40f013ec2e121f55",
+            "id": "c24dc7248c475aa3d03cc1215db407e5",
             "name": "Create an email credential",
             "url": "httpsapi.rebilly.com\/v2.1\/credential-hashes\/emails",
             "description": "Create an email credential\n",
@@ -4130,11 +4130,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "dfc7d5abf5b75934748bf300f7f6afa7",
+            "collectionId": "e017b875e2ead222124aa49b0bd1922e",
             "rawModeData": ""
         },
         {
-            "id": "81166be3ece35411274246ea0a2a6590",
+            "id": "b67822d6f84ec32e7262a029803d39b0",
             "name": "Retrieve an email credential",
             "url": "httpsapi.rebilly.com\/v2.1\/credential-hashes\/emails\/{hash}",
             "description": "Retrieve an email credential with specified token identifier string\n",
@@ -4153,11 +4153,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "dfc7d5abf5b75934748bf300f7f6afa7",
+            "collectionId": "e017b875e2ead222124aa49b0bd1922e",
             "rawModeData": ""
         },
         {
-            "id": "07231f74af61f9fb0eadbd14f0569672",
+            "id": "a08268d8d801af13db56dae7c359f1b7",
             "name": "Create a webhook credential",
             "url": "httpsapi.rebilly.com\/v2.1\/credential-hashes\/webhooks",
             "description": "Create a webhook credential\n",
@@ -4184,11 +4184,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "dfc7d5abf5b75934748bf300f7f6afa7",
+            "collectionId": "e017b875e2ead222124aa49b0bd1922e",
             "rawModeData": ""
         },
         {
-            "id": "aaa52d2050fe32ba924b04e51be67cae",
+            "id": "ec2fe51e492ad489b6a40241f32ad4c5",
             "name": "Retrieve a webhook credential",
             "url": "httpsapi.rebilly.com\/v2.1\/credential-hashes\/webhooks\/{hash}",
             "description": "Retrieve a webhook credential with specified token identifier string\n",
@@ -4207,11 +4207,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "dfc7d5abf5b75934748bf300f7f6afa7",
+            "collectionId": "e017b875e2ead222124aa49b0bd1922e",
             "rawModeData": ""
         },
         {
-            "id": "f0b1815007a352335695279f13530301",
+            "id": "60a42390496d35c83b21987c904588d9",
             "name": "Retrieve a list of custom events",
             "url": "httpsapi.rebilly.com\/v2.1\/custom-events",
             "description": "Retrieve a list of custom events\n",
@@ -4230,11 +4230,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "dfc7d5abf5b75934748bf300f7f6afa7",
+            "collectionId": "e017b875e2ead222124aa49b0bd1922e",
             "rawModeData": ""
         },
         {
-            "id": "73dfe1d2c85751c5caba22139414926d",
+            "id": "0439aeb3954445d76048bec12e3b8abf",
             "name": "Create a custom event",
             "url": "httpsapi.rebilly.com\/v2.1\/custom-events",
             "description": "Create a custom event\n",
@@ -4261,11 +4261,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "dfc7d5abf5b75934748bf300f7f6afa7",
+            "collectionId": "e017b875e2ead222124aa49b0bd1922e",
             "rawModeData": ""
         },
         {
-            "id": "23c8c986185c490efbbe08e45656f79a",
+            "id": "15221f7b1778821a7e39a0bcf9ca58f4",
             "name": "Delete a custom event",
             "url": "httpsapi.rebilly.com\/v2.1\/custom-events\/{id}",
             "description": "Delete a custom event with predefined identifier string\n",
@@ -4284,11 +4284,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "dfc7d5abf5b75934748bf300f7f6afa7",
+            "collectionId": "e017b875e2ead222124aa49b0bd1922e",
             "rawModeData": ""
         },
         {
-            "id": "5d5fbebbd0d98ae63dfb6175c78d2c27",
+            "id": "0fbd5c712610ccc39394e0b51782da57",
             "name": "Retrieve a custom event",
             "url": "httpsapi.rebilly.com\/v2.1\/custom-events\/{id}",
             "description": "Retrieve a custom event with predefined identifier string\n",
@@ -4307,11 +4307,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "dfc7d5abf5b75934748bf300f7f6afa7",
+            "collectionId": "e017b875e2ead222124aa49b0bd1922e",
             "rawModeData": ""
         },
         {
-            "id": "1466b9bd2ad02c3eb66316b6e85dd059",
+            "id": "1526f2f70cea3fe7b7084ad2781596e8",
             "name": "Create a custom event with predefined ID",
             "url": "httpsapi.rebilly.com\/v2.1\/custom-events\/{id}",
             "description": "Create a custom event with predefined identifier string\n",
@@ -4338,11 +4338,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "dfc7d5abf5b75934748bf300f7f6afa7",
+            "collectionId": "e017b875e2ead222124aa49b0bd1922e",
             "rawModeData": ""
         },
         {
-            "id": "2d9bcddb0a5db85067b2a99ba1aecf74",
+            "id": "de0a87452bbf2aa36b0e0d119bd6b721",
             "name": "Retrieve a list of rules for custom event",
             "url": "httpsapi.rebilly.com\/v2.1\/custom-events\/{id}\/rules",
             "description": "",
@@ -4361,11 +4361,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "dfc7d5abf5b75934748bf300f7f6afa7",
+            "collectionId": "e017b875e2ead222124aa49b0bd1922e",
             "rawModeData": ""
         },
         {
-            "id": "b3efb3ed5bfab51a80aad7ebeb37f875",
+            "id": "21619e83d74b2f3ed89984292adf2a6f",
             "name": "Update the rules for custom event",
             "url": "httpsapi.rebilly.com\/v2.1\/custom-events\/{id}\/rules",
             "description": "",
@@ -4392,11 +4392,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "dfc7d5abf5b75934748bf300f7f6afa7",
+            "collectionId": "e017b875e2ead222124aa49b0bd1922e",
             "rawModeData": ""
         },
         {
-            "id": "bd7bd981ffdfab6a9d734cf357901c2e",
+            "id": "a3e06f99f861f15501b72ee867d72427",
             "name": "Retrieve the change history of the set of rules for a custom event",
             "url": "httpsapi.rebilly.com\/v2.1\/custom-events\/{id}\/rules\/history",
             "description": "Retrieve the change history of the set of rules for the selected custom event.\nThe history is updated each time you change the rules.\n",
@@ -4415,11 +4415,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "dfc7d5abf5b75934748bf300f7f6afa7",
+            "collectionId": "e017b875e2ead222124aa49b0bd1922e",
             "rawModeData": ""
         },
         {
-            "id": "64a9cefb0206b0edfdddbc1f60b8e7a4",
+            "id": "afd38627ca3b8a300e8668bf15a71012",
             "name": "Retrieve the record from the change history of the set of rules for a custom event",
             "url": "httpsapi.rebilly.com\/v2.1\/custom-events\/{id}\/rules\/history\/{version}",
             "description": "Retrieve the record from the change history of the set of rules for the selected custom event.\nA history record is created each time you change the rules.\n",
@@ -4438,11 +4438,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "dfc7d5abf5b75934748bf300f7f6afa7",
+            "collectionId": "e017b875e2ead222124aa49b0bd1922e",
             "rawModeData": ""
         },
         {
-            "id": "a911af71c1e304256040cc908d9a3822",
+            "id": "06ae0ef66ec3f1f2a50f55c09ec33d31",
             "name": "Retrieve the version of the set of rules for a custom event",
             "url": "httpsapi.rebilly.com\/v2.1\/custom-events\/{id}\/rules\/versions\/{version}",
             "description": "Retrieve the version of the selected set of rules for the selected custom event.\nThe versions are created each time you change the rules.\n",
@@ -4461,11 +4461,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "dfc7d5abf5b75934748bf300f7f6afa7",
+            "collectionId": "e017b875e2ead222124aa49b0bd1922e",
             "rawModeData": ""
         },
         {
-            "id": "e9d912e9736679c2ac04cc5f9d7277b0",
+            "id": "689ecba94849f7e973ad5004104e066e",
             "name": "Retrieve a list of existing events",
             "url": "httpsapi.rebilly.com\/v2.1\/events",
             "description": "",
@@ -4484,11 +4484,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "dfc7d5abf5b75934748bf300f7f6afa7",
+            "collectionId": "e017b875e2ead222124aa49b0bd1922e",
             "rawModeData": ""
         },
         {
-            "id": "39722af95a79b862380972a3722e8dde",
+            "id": "51ec990910f76a48b1595ff8df08a844",
             "name": "Retrieve the event information",
             "url": "httpsapi.rebilly.com\/v2.1\/events\/{eventType}",
             "description": "",
@@ -4507,11 +4507,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "dfc7d5abf5b75934748bf300f7f6afa7",
+            "collectionId": "e017b875e2ead222124aa49b0bd1922e",
             "rawModeData": ""
         },
         {
-            "id": "8dfa7f239f4ec8b4d3ed431ea4add704",
+            "id": "71fe613a53c08ca5d51889e51a4a1c6c",
             "name": "Retrieve a list of rules for event",
             "url": "httpsapi.rebilly.com\/v2.1\/events\/{eventType}\/rules",
             "description": "",
@@ -4530,11 +4530,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "dfc7d5abf5b75934748bf300f7f6afa7",
+            "collectionId": "e017b875e2ead222124aa49b0bd1922e",
             "rawModeData": ""
         },
         {
-            "id": "15e672fef822c710876407e7f2024b02",
+            "id": "56c758efbf06de6afd92bd13a4303764",
             "name": "Update the rules for event",
             "url": "httpsapi.rebilly.com\/v2.1\/events\/{eventType}\/rules",
             "description": "",
@@ -4561,11 +4561,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "dfc7d5abf5b75934748bf300f7f6afa7",
+            "collectionId": "e017b875e2ead222124aa49b0bd1922e",
             "rawModeData": ""
         },
         {
-            "id": "516434955b033fe17fe272b867f0f1a8",
+            "id": "5d2ef1dba9adb5eb5a27cd44f686ff3d",
             "name": "Retrieve the change history of the set of rules",
             "url": "httpsapi.rebilly.com\/v2.1\/events\/{eventType}\/rules\/history",
             "description": "Retrieve the change history of the selected set of rules.\nThe history is updated each time you change the rules.\n",
@@ -4584,11 +4584,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "dfc7d5abf5b75934748bf300f7f6afa7",
+            "collectionId": "e017b875e2ead222124aa49b0bd1922e",
             "rawModeData": ""
         },
         {
-            "id": "cfbb421a709d39d5226cd4b06be2cae9",
+            "id": "60ba4c422508067fdab7ba7b7ad672fe",
             "name": "Retrieve the record from the change history of the set of rules",
             "url": "httpsapi.rebilly.com\/v2.1\/events\/{eventType}\/rules\/history\/{version}",
             "description": "Retrieve the record from the change history of the selected set of rules.\nA history record is created each time you change the rules.\n",
@@ -4607,11 +4607,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "dfc7d5abf5b75934748bf300f7f6afa7",
+            "collectionId": "e017b875e2ead222124aa49b0bd1922e",
             "rawModeData": ""
         },
         {
-            "id": "fba9e41b86329331fb21f60898d330fb",
+            "id": "e2848b7b73553c08f69a7d98edde5eb3",
             "name": "Retrieve the version of the set of rules",
             "url": "httpsapi.rebilly.com\/v2.1\/events\/{eventType}\/rules\/versions\/{version}",
             "description": "Retrieve the version of the selected set of rules.\nThe versions are created each time you change the rules.\n",
@@ -4630,11 +4630,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "dfc7d5abf5b75934748bf300f7f6afa7",
+            "collectionId": "e017b875e2ead222124aa49b0bd1922e",
             "rawModeData": ""
         },
         {
-            "id": "782f389da48ac807cef4510aa2eacfc6",
+            "id": "2cbde54a5ea7d0d29e5de726c59e9638",
             "name": "Sends an email with a link containing a token to reset user password",
             "url": "httpsapi.rebilly.com\/v2.1\/forgot-password",
             "description": "Sends an email with a link containing a token to reset user password\n",
@@ -4661,11 +4661,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "dfc7d5abf5b75934748bf300f7f6afa7",
+            "collectionId": "e017b875e2ead222124aa49b0bd1922e",
             "rawModeData": ""
         },
         {
-            "id": "e0ed55d593878c66a87961f56cc1c2e4",
+            "id": "08eb8df09a945e20a60970d1da9ba069",
             "name": "Retrieve a list of gateway accounts",
             "url": "httpsapi.rebilly.com\/v2.1\/gateway-accounts",
             "description": "Retrieve a list of gateway accounts\n",
@@ -4684,11 +4684,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "dfc7d5abf5b75934748bf300f7f6afa7",
+            "collectionId": "e017b875e2ead222124aa49b0bd1922e",
             "rawModeData": ""
         },
         {
-            "id": "eb6c8d4a8c47666413efd98c93e7c163",
+            "id": "890886999bb3d501884882be99c349d3",
             "name": "Create a Gateway Account",
             "url": "httpsapi.rebilly.com\/v2.1\/gateway-accounts",
             "description": "Create a Gateway Account\n",
@@ -4715,11 +4715,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "dfc7d5abf5b75934748bf300f7f6afa7",
+            "collectionId": "e017b875e2ead222124aa49b0bd1922e",
             "rawModeData": ""
         },
         {
-            "id": "7434901bb597cb5c124b9f90e6666807",
+            "id": "242faf50fe6acf066504c1e40be6de24",
             "name": "Delete a Gateway Account",
             "url": "httpsapi.rebilly.com\/v2.1\/gateway-accounts\/{id}",
             "description": "Delete a Gateway Account with predefined identifier string\n",
@@ -4738,11 +4738,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "dfc7d5abf5b75934748bf300f7f6afa7",
+            "collectionId": "e017b875e2ead222124aa49b0bd1922e",
             "rawModeData": ""
         },
         {
-            "id": "6e346e8f344b8ce19d1d951df564773a",
+            "id": "cfb93cf2e059826af38d2866ad4cde1f",
             "name": "Retrieve a Gateway Account",
             "url": "httpsapi.rebilly.com\/v2.1\/gateway-accounts\/{id}",
             "description": "Retrieve a Gateway Account with specified identifier string\n",
@@ -4761,11 +4761,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "dfc7d5abf5b75934748bf300f7f6afa7",
+            "collectionId": "e017b875e2ead222124aa49b0bd1922e",
             "rawModeData": ""
         },
         {
-            "id": "7808c8fb0c0b2bd6542ea4d186c114ae",
+            "id": "3c9627894e2961170ebb74bd2383e631",
             "name": "Update a Gateway Account with predefined ID",
             "url": "httpsapi.rebilly.com\/v2.1\/gateway-accounts\/{id}",
             "description": "Update a GatewayAccount with predefined identifier string\n",
@@ -4792,11 +4792,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "dfc7d5abf5b75934748bf300f7f6afa7",
+            "collectionId": "e017b875e2ead222124aa49b0bd1922e",
             "rawModeData": ""
         },
         {
-            "id": "7e148e64957585bfadd7315e90c5c70f",
+            "id": "4441b6e935206a6091179cdad067e11b",
             "name": "Create or update a Gateway Account with predefined ID",
             "url": "httpsapi.rebilly.com\/v2.1\/gateway-accounts\/{id}",
             "description": "Create or update a GatewayAccount with predefined identifier string\n",
@@ -4823,11 +4823,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "dfc7d5abf5b75934748bf300f7f6afa7",
+            "collectionId": "e017b875e2ead222124aa49b0bd1922e",
             "rawModeData": ""
         },
         {
-            "id": "6253e6b1c03d1ea6c9bee0a11a2c4878",
+            "id": "aac21ac646554f170d9b46be5cfc891c",
             "name": "Retrieve a layout list",
             "url": "httpsapi.rebilly.com\/v2.1\/layouts",
             "description": "Retrieve a layout list\n",
@@ -4846,11 +4846,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "dfc7d5abf5b75934748bf300f7f6afa7",
+            "collectionId": "e017b875e2ead222124aa49b0bd1922e",
             "rawModeData": ""
         },
         {
-            "id": "fb71ccbbafaa479edecfc6328206d629",
+            "id": "67d86bc307311a6e4e6b0ae050d9a5eb",
             "name": "Create a layout",
             "url": "httpsapi.rebilly.com\/v2.1\/layouts",
             "description": "Create a layout\n",
@@ -4877,11 +4877,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "dfc7d5abf5b75934748bf300f7f6afa7",
+            "collectionId": "e017b875e2ead222124aa49b0bd1922e",
             "rawModeData": ""
         },
         {
-            "id": "a7bd6b1ba09d64499fa7976267e0c9ff",
+            "id": "372f043f5dff1dd0d5948a6f69b93491",
             "name": "Delete a layout",
             "url": "httpsapi.rebilly.com\/v2.1\/layouts\/{id}",
             "description": "Delete a layout with predefined identifier string\n",
@@ -4900,11 +4900,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "dfc7d5abf5b75934748bf300f7f6afa7",
+            "collectionId": "e017b875e2ead222124aa49b0bd1922e",
             "rawModeData": ""
         },
         {
-            "id": "5245e7966100fcbb5330f9c41c80cb77",
+            "id": "88c312c3b1d6f355626bfdd47660b926",
             "name": "Retrieve a layout",
             "url": "httpsapi.rebilly.com\/v2.1\/layouts\/{id}",
             "description": "Retrieve a layout with specified identifier string\n",
@@ -4923,11 +4923,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "dfc7d5abf5b75934748bf300f7f6afa7",
+            "collectionId": "e017b875e2ead222124aa49b0bd1922e",
             "rawModeData": ""
         },
         {
-            "id": "9a149c7d5f67e2a4f789766e65e77995",
+            "id": "34f5e8a4b82188dba3625497d06cb4d1",
             "name": "Create or update a layout with predefined ID",
             "url": "httpsapi.rebilly.com\/v2.1\/layouts\/{id}",
             "description": "Create or update a layout with predefined identifier string\n",
@@ -4954,11 +4954,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "dfc7d5abf5b75934748bf300f7f6afa7",
+            "collectionId": "e017b875e2ead222124aa49b0bd1922e",
             "rawModeData": ""
         },
         {
-            "id": "21940c7e2d5810cd6f770da76f1f351f",
+            "id": "3d964bc4f1857eca8bdc414498cdadb0",
             "name": "Retrieve a collection of Lists (latest version of each List)",
             "url": "httpsapi.rebilly.com\/v2.1\/lists",
             "description": "Retrieve a collection of Lists\n",
@@ -4977,11 +4977,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "dfc7d5abf5b75934748bf300f7f6afa7",
+            "collectionId": "e017b875e2ead222124aa49b0bd1922e",
             "rawModeData": ""
         },
         {
-            "id": "0c22625caf871a8151c9ee2b9638927b",
+            "id": "a96bc3582d517dc14598df9c1cbb4ffc",
             "name": "Create a List",
             "url": "httpsapi.rebilly.com\/v2.1\/lists",
             "description": "Create a List\n",
@@ -5008,11 +5008,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "dfc7d5abf5b75934748bf300f7f6afa7",
+            "collectionId": "e017b875e2ead222124aa49b0bd1922e",
             "rawModeData": ""
         },
         {
-            "id": "d990c07dbd7756002a989bab2dbc0e27",
+            "id": "b4a8a81afb65e6971f56dff95ca50ff6",
             "name": "Delete a list",
             "url": "httpsapi.rebilly.com\/v2.1\/lists\/{id}",
             "description": "Delete a list with predefined identifier string\n",
@@ -5031,11 +5031,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "dfc7d5abf5b75934748bf300f7f6afa7",
+            "collectionId": "e017b875e2ead222124aa49b0bd1922e",
             "rawModeData": ""
         },
         {
-            "id": "d4e46020bbf1ea16619eefbf73cb152d",
+            "id": "f6689984c3cfe2593391f952907d7612",
             "name": "Retrieve list's latest version",
             "url": "httpsapi.rebilly.com\/v2.1\/lists\/{id}",
             "description": "Retrieve latest version of List with specified identifier string\n",
@@ -5054,11 +5054,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "dfc7d5abf5b75934748bf300f7f6afa7",
+            "collectionId": "e017b875e2ead222124aa49b0bd1922e",
             "rawModeData": ""
         },
         {
-            "id": "6ac954cf2f8ce1a8fb752c27b9e40bef",
+            "id": "297ce70ceaf050d6d2cfc2b17893ab72",
             "name": "Create or update a list with predefined ID",
             "url": "httpsapi.rebilly.com\/v2.1\/lists\/{id}",
             "description": "Create or update a list with predefined identifier string\n",
@@ -5085,11 +5085,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "dfc7d5abf5b75934748bf300f7f6afa7",
+            "collectionId": "e017b875e2ead222124aa49b0bd1922e",
             "rawModeData": ""
         },
         {
-            "id": "607db75a6479561e2a7f17fbc5a862cb",
+            "id": "dafd046d8045e0bddbfc690169e6d87c",
             "name": "Retrieve List's exact version",
             "url": "httpsapi.rebilly.com\/v2.1\/lists\/{id}\/{version}",
             "description": "",
@@ -5108,11 +5108,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "dfc7d5abf5b75934748bf300f7f6afa7",
+            "collectionId": "e017b875e2ead222124aa49b0bd1922e",
             "rawModeData": ""
         },
         {
-            "id": "73bb2c875ac75ac8594ec380fba7f667",
+            "id": "9835120576045e63ad99f07caf0aff24",
             "name": "Retrieve a list of notes",
             "url": "httpsapi.rebilly.com\/v2.1\/notes",
             "description": "Retrieve a list of notes\n",
@@ -5131,11 +5131,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "dfc7d5abf5b75934748bf300f7f6afa7",
+            "collectionId": "e017b875e2ead222124aa49b0bd1922e",
             "rawModeData": ""
         },
         {
-            "id": "8e48cd3c1dd2f14d78f539bf523cb5e4",
+            "id": "1cffce188337cda8bb4b6d176053945a",
             "name": "Create a note",
             "url": "httpsapi.rebilly.com\/v2.1\/notes",
             "description": "Create a note\n",
@@ -5162,11 +5162,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "dfc7d5abf5b75934748bf300f7f6afa7",
+            "collectionId": "e017b875e2ead222124aa49b0bd1922e",
             "rawModeData": ""
         },
         {
-            "id": "1b763b0cefaad66a47ec7a6372779807",
+            "id": "83e50dc9e2b5be52c478615987cac98e",
             "name": "Retrieve a note",
             "url": "httpsapi.rebilly.com\/v2.1\/notes\/{id}",
             "description": "Retrieve a note with specified identifier string\n",
@@ -5185,11 +5185,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "dfc7d5abf5b75934748bf300f7f6afa7",
+            "collectionId": "e017b875e2ead222124aa49b0bd1922e",
             "rawModeData": ""
         },
         {
-            "id": "29f0cafcf6bddeff8a9d14479ed7d28e",
+            "id": "30649abe5ba4f600067992b7bae0eaf7",
             "name": "Create or update a note with predefined ID",
             "url": "httpsapi.rebilly.com\/v2.1\/notes\/{id}",
             "description": "Create or update a note with predefined identifier string\n",
@@ -5216,11 +5216,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "dfc7d5abf5b75934748bf300f7f6afa7",
+            "collectionId": "e017b875e2ead222124aa49b0bd1922e",
             "rawModeData": ""
         },
         {
-            "id": "7fbe9b190296399582d4fc0ca426c9d6",
+            "id": "fbfbae88403582d3bf9f32f1b0368f3b",
             "name": "Retrieve a list of organizations",
             "url": "httpsapi.rebilly.com\/v2.1\/organizations",
             "description": "Retrieve a list of organizations\n",
@@ -5239,11 +5239,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "dfc7d5abf5b75934748bf300f7f6afa7",
+            "collectionId": "e017b875e2ead222124aa49b0bd1922e",
             "rawModeData": ""
         },
         {
-            "id": "93edb28aa754bf62ae47398ecb16cc31",
+            "id": "20b6bf88e14b863aa365590a4a2626ac",
             "name": "Create a organization",
             "url": "httpsapi.rebilly.com\/v2.1\/organizations",
             "description": "Create a organization\n",
@@ -5270,11 +5270,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "dfc7d5abf5b75934748bf300f7f6afa7",
+            "collectionId": "e017b875e2ead222124aa49b0bd1922e",
             "rawModeData": ""
         },
         {
-            "id": "ee79804e87228e8b71e0798906a83706",
+            "id": "809ddfb701ba4df77b2944c8c654f278",
             "name": "Delete a organization",
             "url": "httpsapi.rebilly.com\/v2.1\/organizations\/{id}",
             "description": "Delete a organization with predefined identifier string\n",
@@ -5293,11 +5293,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "dfc7d5abf5b75934748bf300f7f6afa7",
+            "collectionId": "e017b875e2ead222124aa49b0bd1922e",
             "rawModeData": ""
         },
         {
-            "id": "f00004ff86ce97da6cd715260f411c1c",
+            "id": "6ef22f2aff526e76e3cf65230ee5c91f",
             "name": "Retrieve a organization",
             "url": "httpsapi.rebilly.com\/v2.1\/organizations\/{id}",
             "description": "Retrieve a organization with specified identifier string\n",
@@ -5316,11 +5316,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "dfc7d5abf5b75934748bf300f7f6afa7",
+            "collectionId": "e017b875e2ead222124aa49b0bd1922e",
             "rawModeData": ""
         },
         {
-            "id": "30a02395da1f4a01c941ff09638dc50c",
+            "id": "5b13358876c62c993326168f36d76bff",
             "name": "Create or update a organization with predefined ID",
             "url": "httpsapi.rebilly.com\/v2.1\/organizations\/{id}",
             "description": "Create or update a organization with predefined identifier string\n",
@@ -5347,11 +5347,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "dfc7d5abf5b75934748bf300f7f6afa7",
+            "collectionId": "e017b875e2ead222124aa49b0bd1922e",
             "rawModeData": ""
         },
         {
-            "id": "00c17b03dbcb35b3be4090e4a5f32402",
+            "id": "75e16f312664630d7ada138dd70c3d0d",
             "name": "Retrieve a list of payment cards ready for migration",
             "url": "httpsapi.rebilly.com\/v2.1\/payment-cards-migrations",
             "description": "Retrieve a list of payment cards ready for migration\n",
@@ -5370,11 +5370,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "dfc7d5abf5b75934748bf300f7f6afa7",
+            "collectionId": "e017b875e2ead222124aa49b0bd1922e",
             "rawModeData": ""
         },
         {
-            "id": "c5a839b2eb830348e7f3a9cd25df65ad",
+            "id": "7bc33eed5f330e0d4097a46831a233d8",
             "name": "Migrate payment cards to another gateway account",
             "url": "httpsapi.rebilly.com\/v2.1\/payment-cards-migrations\/migrate",
             "description": "Migrate payment cards to another gateway account\n",
@@ -5401,11 +5401,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "dfc7d5abf5b75934748bf300f7f6afa7",
+            "collectionId": "e017b875e2ead222124aa49b0bd1922e",
             "rawModeData": ""
         },
         {
-            "id": "f8e106ca6712d9dd641d6c4cbf6ad828",
+            "id": "aee0ccf260d61b8eedb05f996ecfcede",
             "name": "Send a test email",
             "url": "httpsapi.rebilly.com\/v2.1\/previews\/rule-actions\/send-email",
             "description": "Send a test email\n",
@@ -5432,11 +5432,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "dfc7d5abf5b75934748bf300f7f6afa7",
+            "collectionId": "e017b875e2ead222124aa49b0bd1922e",
             "rawModeData": ""
         },
         {
-            "id": "91588fd0aa10eaa8a44ef17b994fbd7e",
+            "id": "684e31c44f018f20fe951777194066a7",
             "name": "Trigger a test webhook",
             "url": "httpsapi.rebilly.com\/v2.1\/previews\/rule-actions\/trigger-webhook",
             "description": "Trigger a test webhook\n",
@@ -5463,11 +5463,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "dfc7d5abf5b75934748bf300f7f6afa7",
+            "collectionId": "e017b875e2ead222124aa49b0bd1922e",
             "rawModeData": ""
         },
         {
-            "id": "7c2cf4c983c82a480d6fdb985c8a09a7",
+            "id": "e21f57fcf1cec37c2870150c02307ca8",
             "name": "Trigger a test webhook",
             "url": "httpsapi.rebilly.com\/v2.1\/previews\/webhooks",
             "description": "Trigger a test webhook\n",
@@ -5494,11 +5494,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "dfc7d5abf5b75934748bf300f7f6afa7",
+            "collectionId": "e017b875e2ead222124aa49b0bd1922e",
             "rawModeData": ""
         },
         {
-            "id": "6f4e48a94c49f840d9a193c35544e14e",
+            "id": "b2d8926a1ed77de6c6cc07204c4fd897",
             "name": "Retrieve user's profile",
             "url": "httpsapi.rebilly.com\/v2.1\/profile",
             "description": "Retrieve user's profile\n",
@@ -5517,11 +5517,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "dfc7d5abf5b75934748bf300f7f6afa7",
+            "collectionId": "e017b875e2ead222124aa49b0bd1922e",
             "rawModeData": ""
         },
         {
-            "id": "f8b61492bca37a46bed8af0f583cdb61",
+            "id": "16071acb4a17749ddf1dfc9fe4f0ae7a",
             "name": "Update user's profile",
             "url": "httpsapi.rebilly.com\/v2.1\/profile",
             "description": "Update user's profile\n",
@@ -5548,11 +5548,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "dfc7d5abf5b75934748bf300f7f6afa7",
+            "collectionId": "e017b875e2ead222124aa49b0bd1922e",
             "rawModeData": ""
         },
         {
-            "id": "4ed66359da2e9ba0bb0f82b4390e146e",
+            "id": "488037516ac5e0321bfb8fd495a30a72",
             "name": "Retrieve a list of scheduled custom events",
             "url": "httpsapi.rebilly.com\/v2.1\/queue\/custom-events",
             "description": "Retrieve a list of scheduled custom events\n",
@@ -5571,11 +5571,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "dfc7d5abf5b75934748bf300f7f6afa7",
+            "collectionId": "e017b875e2ead222124aa49b0bd1922e",
             "rawModeData": ""
         },
         {
-            "id": "1012de883dcd76109d1355a3490e0faf",
+            "id": "4a923bd314efd92f6a8c70a99aa4bde3",
             "name": "Delete a scheduled custom event",
             "url": "httpsapi.rebilly.com\/v2.1\/queue\/custom-events\/{id}",
             "description": "Delete a scheduled custom event with predefined identifier string\n",
@@ -5594,11 +5594,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "dfc7d5abf5b75934748bf300f7f6afa7",
+            "collectionId": "e017b875e2ead222124aa49b0bd1922e",
             "rawModeData": ""
         },
         {
-            "id": "a4e9a1c65b0662a78164641556a3f97d",
+            "id": "f073f588c28a060f56d3cf0693309452",
             "name": "Retrieve a scheduled custom event",
             "url": "httpsapi.rebilly.com\/v2.1\/queue\/custom-events\/{id}",
             "description": "Retrieve a scheduled custom event with predefined identifier string\n",
@@ -5617,11 +5617,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "dfc7d5abf5b75934748bf300f7f6afa7",
+            "collectionId": "e017b875e2ead222124aa49b0bd1922e",
             "rawModeData": ""
         },
         {
-            "id": "0ec3a025ebb9fc4a3de4215ea365c493",
+            "id": "e384a06d511cb69883a30ae8d38be8f2",
             "name": "Cancel a scheduled payment",
             "url": "httpsapi.rebilly.com\/v2.1\/queue\/payments\/{id}\/cancel",
             "description": "Cancel a scheduled payment with specified identifier string\n",
@@ -5640,11 +5640,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "dfc7d5abf5b75934748bf300f7f6afa7",
+            "collectionId": "e017b875e2ead222124aa49b0bd1922e",
             "rawModeData": ""
         },
         {
-            "id": "68c1a3a4758cee9b9de091181e5531a8",
+            "id": "cf260e5473023256e5db081b1730d62a",
             "name": "Retrieve a list of sessions",
             "url": "httpsapi.rebilly.com\/v2.1\/sessions",
             "description": "Retrieve a list of sessions\n",
@@ -5663,11 +5663,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "dfc7d5abf5b75934748bf300f7f6afa7",
+            "collectionId": "e017b875e2ead222124aa49b0bd1922e",
             "rawModeData": ""
         },
         {
-            "id": "8129a04d3994c89cca8215fcdf46448a",
+            "id": "88d9ae0e3202b7c800dd07c31d8ca5ff",
             "name": "Create a session",
             "url": "httpsapi.rebilly.com\/v2.1\/sessions",
             "description": "Create a session\n",
@@ -5694,11 +5694,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "dfc7d5abf5b75934748bf300f7f6afa7",
+            "collectionId": "e017b875e2ead222124aa49b0bd1922e",
             "rawModeData": ""
         },
         {
-            "id": "38520337251990230efcf6c55decf2c6",
+            "id": "554453108d1bddbb4abe3ffc6cbb4d41",
             "name": "Delete a Session",
             "url": "httpsapi.rebilly.com\/v2.1\/sessions\/{id}",
             "description": "Delete a Session with predefined identifier string\n",
@@ -5717,11 +5717,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "dfc7d5abf5b75934748bf300f7f6afa7",
+            "collectionId": "e017b875e2ead222124aa49b0bd1922e",
             "rawModeData": ""
         },
         {
-            "id": "d73412bcff0f9755a52d9df8ad2a1f98",
+            "id": "ddb36c8324b43391f0630d0b71b064ad",
             "name": "Retrieve a Session",
             "url": "httpsapi.rebilly.com\/v2.1\/sessions\/{id}",
             "description": "Retrieve a Session with specified identifier string\n",
@@ -5740,11 +5740,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "dfc7d5abf5b75934748bf300f7f6afa7",
+            "collectionId": "e017b875e2ead222124aa49b0bd1922e",
             "rawModeData": ""
         },
         {
-            "id": "ede5aa96ff26e75948923f3a874f762e",
+            "id": "575169e970d54514fe3d742f9fb405ed",
             "name": "Create or update a Session with predefined ID",
             "url": "httpsapi.rebilly.com\/v2.1\/sessions\/{id}",
             "description": "Create or update a Session with predefined identifier string\n",
@@ -5771,11 +5771,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "dfc7d5abf5b75934748bf300f7f6afa7",
+            "collectionId": "e017b875e2ead222124aa49b0bd1922e",
             "rawModeData": ""
         },
         {
-            "id": "91878906572659b2bd2a4be7b6bcae20",
+            "id": "5dd55033a818fb2a1f81bb6994d8880c",
             "name": "Create a session with email and password",
             "url": "httpsapi.rebilly.com\/v2.1\/signin",
             "description": "Create a session with email and password\n",
@@ -5802,11 +5802,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "dfc7d5abf5b75934748bf300f7f6afa7",
+            "collectionId": "e017b875e2ead222124aa49b0bd1922e",
             "rawModeData": ""
         },
         {
-            "id": "79487ce2248737809b99d3ba2c0015d1",
+            "id": "73b0082402a42cd370b35f488e657d30",
             "name": "Creates a new user and sends an email confirmation",
             "url": "httpsapi.rebilly.com\/v2.1\/signup",
             "description": "Creates a new user and sends an email confirmation\n",
@@ -5833,11 +5833,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "dfc7d5abf5b75934748bf300f7f6afa7",
+            "collectionId": "e017b875e2ead222124aa49b0bd1922e",
             "rawModeData": ""
         },
         {
-            "id": "7a86c346eeab1d67c72c1fda2410bf16",
+            "id": "ec3f0dd522a6132b8ce5542c9ced271b",
             "name": "Retrieve API current status",
             "url": "httpsapi.rebilly.com\/v2.1\/status",
             "description": "Retrieve API current status\n",
@@ -5856,11 +5856,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "dfc7d5abf5b75934748bf300f7f6afa7",
+            "collectionId": "e017b875e2ead222124aa49b0bd1922e",
             "rawModeData": ""
         },
         {
-            "id": "b5d67386a385aa5e7050f3529bc3d515",
+            "id": "41cace2d2fbb7bdafee3b4dda5712f6f",
             "name": "Retrieve a list of tracking API logs",
             "url": "httpsapi.rebilly.com\/v2.1\/tracking\/api",
             "description": "",
@@ -5887,11 +5887,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "dfc7d5abf5b75934748bf300f7f6afa7",
+            "collectionId": "e017b875e2ead222124aa49b0bd1922e",
             "rawModeData": ""
         },
         {
-            "id": "285942062775372da9c847e634afe943",
+            "id": "85aa0da986b08237e6aa17b40ea52d6c",
             "name": "Retrieve a tracking API log with specified identifier string",
             "url": "httpsapi.rebilly.com\/v2.1\/tracking\/api\/{id}",
             "description": "",
@@ -5910,11 +5910,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "dfc7d5abf5b75934748bf300f7f6afa7",
+            "collectionId": "e017b875e2ead222124aa49b0bd1922e",
             "rawModeData": ""
         },
         {
-            "id": "1e2d042df8d7b231366b02e6e2f79b49",
+            "id": "a6563109187efa2554e7cbfb9e872282",
             "name": "Retrieve Lists changes history",
             "url": "httpsapi.rebilly.com\/v2.1\/tracking\/lists",
             "description": "",
@@ -5933,11 +5933,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "dfc7d5abf5b75934748bf300f7f6afa7",
+            "collectionId": "e017b875e2ead222124aa49b0bd1922e",
             "rawModeData": ""
         },
         {
-            "id": "9fed39407c90815789b71deed142e250",
+            "id": "68233848b2d74417e1f3032511dd92d6",
             "name": "Retrieve a list of tracking subscription logs",
             "url": "httpsapi.rebilly.com\/v2.1\/tracking\/subscriptions",
             "description": "",
@@ -5956,11 +5956,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "dfc7d5abf5b75934748bf300f7f6afa7",
+            "collectionId": "e017b875e2ead222124aa49b0bd1922e",
             "rawModeData": ""
         },
         {
-            "id": "7f1cc1cf985041ede283dfa5e43153e5",
+            "id": "e6bb13a2d128297727150e49e53459be",
             "name": "Retrieve a tracking subscription log with specified identifier string",
             "url": "httpsapi.rebilly.com\/v2.1\/tracking\/subscriptions\/{id}",
             "description": "",
@@ -5979,11 +5979,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "dfc7d5abf5b75934748bf300f7f6afa7",
+            "collectionId": "e017b875e2ead222124aa49b0bd1922e",
             "rawModeData": ""
         },
         {
-            "id": "90cf9ff72271b73ddeebb1d1a18e1aa3",
+            "id": "0e6aa27533e70c5f72df6e33684d1c8d",
             "name": "Retrieve a list of tracking webhook notifications",
             "url": "httpsapi.rebilly.com\/v2.1\/tracking\/website-webhooks",
             "description": "",
@@ -6002,11 +6002,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "dfc7d5abf5b75934748bf300f7f6afa7",
+            "collectionId": "e017b875e2ead222124aa49b0bd1922e",
             "rawModeData": ""
         },
         {
-            "id": "d085d9f39e7bb1b2ed066146d9a8d871",
+            "id": "a6e5eb22180bd28876996a1a6af1714f",
             "name": "Retrieve a tracking webhook notification with specified identifier string",
             "url": "httpsapi.rebilly.com\/v2.1\/tracking\/website-webhooks\/{id}",
             "description": "",
@@ -6025,11 +6025,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "dfc7d5abf5b75934748bf300f7f6afa7",
+            "collectionId": "e017b875e2ead222124aa49b0bd1922e",
             "rawModeData": ""
         },
         {
-            "id": "4fa573315c48b679af0c036ea69af168",
+            "id": "635f1789cad798d933693ac34a698fbd",
             "name": "Retrieve a list of users",
             "url": "httpsapi.rebilly.com\/v2.1\/users",
             "description": "Retrieve a list of users\n",
@@ -6048,11 +6048,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "dfc7d5abf5b75934748bf300f7f6afa7",
+            "collectionId": "e017b875e2ead222124aa49b0bd1922e",
             "rawModeData": ""
         },
         {
-            "id": "8a6a51ce09926c07284f832d02321cf1",
+            "id": "77a1b1228bd405b78f6c15608a46a676",
             "name": "Create an user",
             "url": "httpsapi.rebilly.com\/v2.1\/users",
             "description": "Create an user\n",
@@ -6079,11 +6079,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "dfc7d5abf5b75934748bf300f7f6afa7",
+            "collectionId": "e017b875e2ead222124aa49b0bd1922e",
             "rawModeData": ""
         },
         {
-            "id": "ee582ea88a4c78bb8f3e1edbf5f09f1a",
+            "id": "e465b7f20e55071f438cef038226468d",
             "name": "Reset user password",
             "url": "httpsapi.rebilly.com\/v2.1\/users\/reset-password\/{token}",
             "description": "Reset user password\n",
@@ -6110,11 +6110,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "dfc7d5abf5b75934748bf300f7f6afa7",
+            "collectionId": "e017b875e2ead222124aa49b0bd1922e",
             "rawModeData": ""
         },
         {
-            "id": "4b31ce89971eafc86fce96dbb20fdbbe",
+            "id": "f6c5c51b923bf5880086af09601a475e",
             "name": "Delete user",
             "url": "httpsapi.rebilly.com\/v2.1\/users\/{id}",
             "description": "Delete user with predefined identifier string\n",
@@ -6133,11 +6133,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "dfc7d5abf5b75934748bf300f7f6afa7",
+            "collectionId": "e017b875e2ead222124aa49b0bd1922e",
             "rawModeData": ""
         },
         {
-            "id": "ca9b20beb623e203920cd9b4b998eeeb",
+            "id": "851bbdbfb8bbd0838cde90d3a0873f30",
             "name": "Retrieve user",
             "url": "httpsapi.rebilly.com\/v2.1\/users\/{id}",
             "description": "Retrieve user with specified identifier string\n",
@@ -6156,11 +6156,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "dfc7d5abf5b75934748bf300f7f6afa7",
+            "collectionId": "e017b875e2ead222124aa49b0bd1922e",
             "rawModeData": ""
         },
         {
-            "id": "a7cc88c60e102382ffcd5baf4c16de41",
+            "id": "ded25eb67fc9463de22ca223c07be707",
             "name": "Create or update user with predefined ID",
             "url": "httpsapi.rebilly.com\/v2.1\/users\/{id}",
             "description": "Create or update user with predefined identifier string\n",
@@ -6187,11 +6187,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "dfc7d5abf5b75934748bf300f7f6afa7",
+            "collectionId": "e017b875e2ead222124aa49b0bd1922e",
             "rawModeData": ""
         },
         {
-            "id": "8b6182fc7c88a850ac9cb3ce5f134640",
+            "id": "cf46099b5c73a75ea55a0303015c74fa",
             "name": "Updates user's password with the specified newPassword",
             "url": "httpsapi.rebilly.com\/v2.1\/users\/{id}\/password",
             "description": "Updates user's password with the specified newPassword. And checks if currentPassword matches the actual one.\n",
@@ -6218,11 +6218,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "dfc7d5abf5b75934748bf300f7f6afa7",
+            "collectionId": "e017b875e2ead222124aa49b0bd1922e",
             "rawModeData": ""
         },
         {
-            "id": "b5f1553465f00077c905051f0c2828f3",
+            "id": "fb98b6f535681fb63e44360a19767893",
             "name": "Reset (renew) totpSecret",
             "url": "httpsapi.rebilly.com\/v2.1\/users\/{id}\/totp-reset",
             "description": "Reset (renew) totpSecret\n",
@@ -6241,11 +6241,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "dfc7d5abf5b75934748bf300f7f6afa7",
+            "collectionId": "e017b875e2ead222124aa49b0bd1922e",
             "rawModeData": ""
         },
         {
-            "id": "67f49fc4c8886d469c902805adf5f0e5",
+            "id": "37e8d7345b612c220a1e5b95fa1c037e",
             "name": "Retrieve a list of webhooks",
             "url": "httpsapi.rebilly.com\/v2.1\/webhooks",
             "description": "Retrieve a list of webhooks\n",
@@ -6264,11 +6264,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "dfc7d5abf5b75934748bf300f7f6afa7",
+            "collectionId": "e017b875e2ead222124aa49b0bd1922e",
             "rawModeData": ""
         },
         {
-            "id": "4238ebb2b8bc1a64b089962e58e96131",
+            "id": "5fbb58379123010cdc076450ef724c61",
             "name": "Create a webhook",
             "url": "httpsapi.rebilly.com\/v2.1\/webhooks",
             "description": "Create a webhook\n",
@@ -6295,11 +6295,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "dfc7d5abf5b75934748bf300f7f6afa7",
+            "collectionId": "e017b875e2ead222124aa49b0bd1922e",
             "rawModeData": ""
         },
         {
-            "id": "b72b85ec913827f4f72db8c313e6524f",
+            "id": "5a822c0f1f0db0023c5431d752c27efe",
             "name": "Retrieve a webhook",
             "url": "httpsapi.rebilly.com\/v2.1\/webhooks\/{id}",
             "description": "Retrieve a webhook with specified identifier string\n",
@@ -6318,11 +6318,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "dfc7d5abf5b75934748bf300f7f6afa7",
+            "collectionId": "e017b875e2ead222124aa49b0bd1922e",
             "rawModeData": ""
         },
         {
-            "id": "9c45e7a2add3c5fa1deb445d1b6c7152",
+            "id": "3ff6f82a780bb16f573a28b1b073e8c0",
             "name": "Create or update a webhook with predefined ID",
             "url": "httpsapi.rebilly.com\/v2.1\/webhooks\/{id}",
             "description": "Create or update a webhook with predefined identifier string\n",
@@ -6349,11 +6349,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "dfc7d5abf5b75934748bf300f7f6afa7",
+            "collectionId": "e017b875e2ead222124aa49b0bd1922e",
             "rawModeData": ""
         },
         {
-            "id": "dd2c5218045785b06f7b8dcd56c054dc",
+            "id": "67dbd3418dddfe1aaa7c44a031a5ba7a",
             "name": "Retrieve a list of websites",
             "url": "httpsapi.rebilly.com\/v2.1\/websites",
             "description": "Retrieve a list of websites\n",
@@ -6380,11 +6380,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "dfc7d5abf5b75934748bf300f7f6afa7",
+            "collectionId": "e017b875e2ead222124aa49b0bd1922e",
             "rawModeData": ""
         },
         {
-            "id": "0be2ea2bfe03b5d4636c828d13287046",
+            "id": "53bd76d3e530f2ae025fcebaf6cc2e87",
             "name": "Create a website",
             "url": "httpsapi.rebilly.com\/v2.1\/websites",
             "description": "Create a website\n",
@@ -6411,11 +6411,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "dfc7d5abf5b75934748bf300f7f6afa7",
+            "collectionId": "e017b875e2ead222124aa49b0bd1922e",
             "rawModeData": ""
         },
         {
-            "id": "91295c11fdac9560e2cad4a3a51353a0",
+            "id": "91c00022bdfe59b08f0f4fcd39f63b6b",
             "name": "Delete a website",
             "url": "httpsapi.rebilly.com\/v2.1\/websites\/{id}",
             "description": "Delete a website with predefined identifier string\n",
@@ -6434,11 +6434,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "dfc7d5abf5b75934748bf300f7f6afa7",
+            "collectionId": "e017b875e2ead222124aa49b0bd1922e",
             "rawModeData": ""
         },
         {
-            "id": "baea9f317277a15efd442dfd0e8527e1",
+            "id": "6d572656b7c004e140504aaa7cdd2730",
             "name": "Retrieve a website",
             "url": "httpsapi.rebilly.com\/v2.1\/websites\/{id}",
             "description": "Retrieve a website with specified identifier string\n",
@@ -6457,11 +6457,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "dfc7d5abf5b75934748bf300f7f6afa7",
+            "collectionId": "e017b875e2ead222124aa49b0bd1922e",
             "rawModeData": ""
         },
         {
-            "id": "6a3429a6fac13287a7293d43aaa13eaa",
+            "id": "573826234907250c165267235008adad",
             "name": "Create or update a website with predefined ID",
             "url": "httpsapi.rebilly.com\/v2.1\/websites\/{id}",
             "description": "Create or update a website with predefined identifier string\n",
@@ -6488,11 +6488,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "dfc7d5abf5b75934748bf300f7f6afa7",
+            "collectionId": "e017b875e2ead222124aa49b0bd1922e",
             "rawModeData": ""
         },
         {
-            "id": "fc515cc1c663adc5d6ff8737f610dbec",
+            "id": "35ce239191f3accc6355333179720f45",
             "name": "Delete a webhook",
             "url": "httpsapi.rebilly.com\/v2.1\/websites\/{id}\/webhook",
             "description": "Delete a webhook that belongs to a website with predefined ID\n",
@@ -6511,11 +6511,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "dfc7d5abf5b75934748bf300f7f6afa7",
+            "collectionId": "e017b875e2ead222124aa49b0bd1922e",
             "rawModeData": ""
         },
         {
-            "id": "20dc4c2b75dbe0dec6fe2cbd657bf4cb",
+            "id": "a64cc00755e5f5442c922aba2d2ebcdf",
             "name": "Retrieve a webhook for website",
             "url": "httpsapi.rebilly.com\/v2.1\/websites\/{id}\/webhook",
             "description": "Retrieve a webhook for website with specified identifier string\n",
@@ -6534,11 +6534,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "dfc7d5abf5b75934748bf300f7f6afa7",
+            "collectionId": "e017b875e2ead222124aa49b0bd1922e",
             "rawModeData": ""
         },
         {
-            "id": "abaa89b36c344c8898d06c3b905492ab",
+            "id": "4bf5aed2d762f874f70dfa9fa60c49b2",
             "name": "Create or update a webhook for website with predefined ID",
             "url": "httpsapi.rebilly.com\/v2.1\/websites\/{id}\/webhook",
             "description": "Create or update a webhook for website with predefined identifier string\n",
@@ -6565,7 +6565,7 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "dfc7d5abf5b75934748bf300f7f6afa7",
+            "collectionId": "e017b875e2ead222124aa49b0bd1922e",
             "rawModeData": ""
         }
     ]
